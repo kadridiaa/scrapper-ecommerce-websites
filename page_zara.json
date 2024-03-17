@@ -1,0 +1,1718 @@
+{
+    "status": "SUCCESS",
+    "facets": [
+        {
+            "key": "rootCategories_facet",
+            "values": [
+                {
+                    "id": "HOMME",
+                    "count": 95,
+                    "value": "HOMME",
+                    "filter": "rootCategories_facet:HOMME"
+                },
+                {
+                    "id": "SOLDES",
+                    "count": 21,
+                    "value": "SOLDES",
+                    "filter": "rootCategories_facet:SOLDES"
+                }
+            ]
+        },
+        {
+            "key": "sizes_facet",
+            "values": [
+                {
+                    "id": "S-M",
+                    "count": 1,
+                    "value": "S-M",
+                    "filter": "sizes_facet:S-M"
+                },
+                {
+                    "id": "S",
+                    "count": 40,
+                    "value": "S",
+                    "filter": "sizes_facet:S"
+                },
+                {
+                    "id": "M",
+                    "count": 38,
+                    "value": "M",
+                    "filter": "sizes_facet:M"
+                },
+                {
+                    "id": "L-XL",
+                    "count": 1,
+                    "value": "L-XL",
+                    "filter": "sizes_facet:L-XL"
+                },
+                {
+                    "id": "L",
+                    "count": 35,
+                    "value": "L",
+                    "filter": "sizes_facet:L"
+                },
+                {
+                    "id": "XL",
+                    "count": 35,
+                    "value": "XL",
+                    "filter": "sizes_facet:XL"
+                },
+                {
+                    "id": "XXL",
+                    "count": 7,
+                    "value": "XXL",
+                    "filter": "sizes_facet:XXL"
+                }
+            ]
+        },
+        {
+            "key": "color_facet",
+            "values": [
+                {
+                    "id": "black",
+                    "count": 18,
+                    "value": "Noir",
+                    "filter": "colorFilter:black"
+                },
+                {
+                    "id": "white",
+                    "count": 16,
+                    "value": "Blanc",
+                    "filter": "colorFilter:white"
+                },
+                {
+                    "id": "blue",
+                    "count": 15,
+                    "value": "Bleu",
+                    "filter": "colorFilter:blue"
+                },
+                {
+                    "id": "brown",
+                    "count": 14,
+                    "value": "Marron",
+                    "filter": "colorFilter:brown"
+                },
+                {
+                    "id": "grey",
+                    "count": 13,
+                    "value": "Gris",
+                    "filter": "colorFilter:grey"
+                },
+                {
+                    "id": "green",
+                    "count": 7,
+                    "value": "Vert",
+                    "filter": "colorFilter:green"
+                },
+                {
+                    "id": "beige",
+                    "count": 4,
+                    "value": "Beige",
+                    "filter": "colorFilter:beige"
+                },
+                {
+                    "id": "magenta",
+                    "count": 3,
+                    "value": "Magenta",
+                    "filter": "colorFilter:magenta"
+                },
+                {
+                    "id": "metallic",
+                    "count": 3,
+                    "value": "M\u00e9tallis\u00e9",
+                    "filter": "colorFilter:metallic"
+                },
+                {
+                    "id": "yellow",
+                    "count": 2,
+                    "value": "Jaune",
+                    "filter": "colorFilter:yellow"
+                },
+                {
+                    "id": "orange",
+                    "count": 1,
+                    "value": "Orange",
+                    "filter": "colorFilter:orange"
+                },
+                {
+                    "id": "pink",
+                    "count": 1,
+                    "value": "Rose",
+                    "filter": "colorFilter:pink"
+                },
+                {
+                    "id": "printed",
+                    "count": 1,
+                    "value": "Imprim\u00e9",
+                    "filter": "colorFilter:printed"
+                },
+                {
+                    "id": "red",
+                    "count": 1,
+                    "value": "Rouge",
+                    "filter": "colorFilter:red"
+                }
+            ]
+        },
+        {
+            "key": "price_range_facet",
+            "values": [
+                {
+                    "id": "125000",
+                    "value": "125000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "200000",
+                    "value": "200000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "300000",
+                    "value": "300000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "400000",
+                    "value": "400000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "500000",
+                    "value": "500000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "600000",
+                    "value": "600000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "700000",
+                    "value": "700000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "800000",
+                    "value": "800000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "900000",
+                    "value": "900000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "1000000",
+                    "value": "1000000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "1100000",
+                    "value": "1100000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "1200000",
+                    "value": "1200000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "1300000",
+                    "value": "1300000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "1390000",
+                    "value": "1390000",
+                    "filter": "priceFilter:"
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 267136671,
+                "reference": "C05584461250081-I2023",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 125000,
+                "oldPrice": 250000,
+                "displayDiscountPercentage": 50,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584461-I2023",
+                    "displayReference": "5584/461",
+                    "colors": [
+                        {
+                            "id": "250",
+                            "productId": 277650855,
+                            "name": "Blanc",
+                            "stylingId": "81",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584400250_6_1_1",
+                                    "path": "/2021/I/0/2/p/5584/400/250/2",
+                                    "set": 83,
+                                    "timestamp": "1626434552483",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461250081-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 267139898,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584461800_6_1_1",
+                                    "path": "/2023/I/0/2/p/5584/461/800/2",
+                                    "set": 2,
+                                    "timestamp": "1705572189150",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461800000-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "401",
+                            "productId": 267139897,
+                            "name": "Bleu marine",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584461401_6_1_1",
+                                    "path": "/2023/I/0/2/p/5584/461/401/2",
+                                    "set": 2,
+                                    "timestamp": "1687859879275",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461401000-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584461",
+                    "discernProductId": 277650855
+                },
+                "availability": "coming_soon",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F5F6F8",
+                    "numAdditionalColors": 2
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584400250_6_1_1",
+                        "path": "/2021/I/0/2/p/5584/400/250/2",
+                        "set": 83,
+                        "timestamp": "1626434552483",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "277650855",
+            "position": 1,
+            "scoring": 4000009.0,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=1&productId=277650855&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0xJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI3NzY1MDg1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIxJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0MDAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDAwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTYyNjQzNDU1MjQ4MyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=1&productId=277650855&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0xJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI3NzY1MDg1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIxJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0MDAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDAwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTYyNjQzNDU1MjQ4MyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=1&productId=277650855&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0xJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI3NzY1MDg1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIxJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0MDAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDAwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTYyNjQzNDU1MjQ4MyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 267136671,
+                "reference": "C05584461800005-I2023",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 125000,
+                "oldPrice": 250000,
+                "displayDiscountPercentage": 50,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584461-I2023",
+                    "displayReference": "5584/461",
+                    "colors": [
+                        {
+                            "id": "800",
+                            "productId": 288192095,
+                            "name": "Noir",
+                            "stylingId": "5",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584461800_6_1_1",
+                                    "path": "/2023/I/0/2/p/5584/461/800/2",
+                                    "set": 7,
+                                    "timestamp": "1705572189150",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461800005-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "250",
+                            "productId": 277650835,
+                            "name": "Blanc",
+                            "stylingId": "5",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584461250_6_1_1",
+                                    "path": "/2023/V/0/1/p/5584/461/250/2",
+                                    "set": 7,
+                                    "timestamp": "1675790640624",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461250005-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "401",
+                            "productId": 277650861,
+                            "name": "Bleu marine",
+                            "stylingId": "5",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584461401_6_1_1",
+                                    "path": "/2023/I/0/2/p/5584/461/401/2",
+                                    "set": 7,
+                                    "timestamp": "1687859879275",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 125000,
+                            "oldPrice": 250000,
+                            "displayDiscountPercentage": 50,
+                            "availability": "coming_soon",
+                            "reference": "C05584461401005-I2023",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584461",
+                    "discernProductId": 288192095
+                },
+                "availability": "coming_soon",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#2E313A",
+                    "numAdditionalColors": 2
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584461800_6_1_1",
+                        "path": "/2023/I/0/2/p/5584/461/800/2",
+                        "set": 7,
+                        "timestamp": "1705572189150",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "288192095",
+            "position": 2,
+            "scoring": 3000009.0,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=2&productId=288192095&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0yJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI4ODE5MjA5NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIzJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0NjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwNTU3MjE4OTE1MCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=2&productId=288192095&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0yJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI4ODE5MjA5NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIzJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0NjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwNTU3MjE4OTE1MCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=2&productId=288192095&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0yJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTI4ODE5MjA5NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDIzJTJGSSUyRjAlMkYyJTJGcCUyRjU1ODQlMkY0NjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0NDYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwNTU3MjE4OTE1MCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 316697813,
+                "reference": "C01887450250000-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c9PAIS",
+                "price": 350000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "01887450-V2024",
+                    "displayReference": "1887/450",
+                    "colors": [
+                        {
+                            "id": "250",
+                            "productId": 316715458,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450250_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/250/2",
+                                    "set": 2,
+                                    "timestamp": "1703666016728",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 316715457,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450800_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/800/2",
+                                    "set": 2,
+                                    "timestamp": "1703666016786",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "832",
+                            "productId": 323759085,
+                            "name": "Gris taupe",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450832_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/832/2",
+                                    "set": 2,
+                                    "timestamp": "1704812394527",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450832000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "603",
+                            "productId": 323759086,
+                            "name": "Pourpre",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450603_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/603/2",
+                                    "set": 2,
+                                    "timestamp": "1704812394581",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450603000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "730",
+                            "productId": 323759084,
+                            "name": "Marron clair",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450730_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/730/2",
+                                    "set": 2,
+                                    "timestamp": "1704812395595",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450730000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-epais",
+                    "seoProductId": "01887450",
+                    "discernProductId": 316715458
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F4F7F6",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "1887450250_6_1_1",
+                        "path": "/2024/V/0/2/p/1887/450/250/2",
+                        "set": 2,
+                        "timestamp": "1703666016728",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "316715458",
+            "position": 3,
+            "scoring": 36.447,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=3&productId=316715458&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0zJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4OVBBSVMmcHJvZHVjdElkPTMxNjcxNTQ1OF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjE4ODclMkY0NTAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkYxODg3NDUwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMzY2NjAxNjcyOCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=3&productId=316715458&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0zJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4OVBBSVMmcHJvZHVjdElkPTMxNjcxNTQ1OF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjE4ODclMkY0NTAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkYxODg3NDUwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMzY2NjAxNjcyOCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=3&productId=316715458&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj0zJm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4OVBBSVMmcHJvZHVjdElkPTMxNjcxNTQ1OF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjE4ODclMkY0NTAlMkYyNTAlMkYyJTJGdyUyRjIwNDglMkYxODg3NDUwMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMzY2NjAxNjcyOCZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 315220723,
+                "reference": "C05584361250001-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 250000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584361-V2024",
+                    "displayReference": "5584/361",
+                    "colors": [
+                        {
+                            "id": "250",
+                            "productId": 323895503,
+                            "name": "Blanc",
+                            "stylingId": "1",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361250_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/250/2",
+                                    "set": 3,
+                                    "timestamp": "1701942293377",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361250001-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 315241755,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584261800_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/261/800/2",
+                                    "set": 2,
+                                    "timestamp": "1701355301897",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "401",
+                            "productId": 315241754,
+                            "name": "Bleu marine",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361401_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/401/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382356",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361401000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "672",
+                            "productId": 316180328,
+                            "name": "Prune fonc\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361672_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/672/2",
+                                    "set": 2,
+                                    "timestamp": "1703759556572",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361672000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "527",
+                            "productId": 316180330,
+                            "name": "Vert moyen",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361527_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/527/2",
+                                    "set": 2,
+                                    "timestamp": "1703759575965",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361527000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584361",
+                    "discernProductId": 323895503
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F4F7F6",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584361250_6_1_1",
+                        "path": "/2024/V/0/2/p/5584/361/250/2",
+                        "set": 3,
+                        "timestamp": "1701942293377",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "323895503",
+            "position": 4,
+            "scoring": 35.313,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=4&productId=323895503&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj00Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMyMzg5NTUwM18xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MjI5MzM3NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=4&productId=323895503&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj00Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMyMzg5NTUwM18xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MjI5MzM3NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=4&productId=323895503&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj00Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMyMzg5NTUwM18xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkYyNTAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxMjUwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MjI5MzM3NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 315220723,
+                "reference": "C05584361527000-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 250000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584361-V2024",
+                    "displayReference": "5584/361",
+                    "colors": [
+                        {
+                            "id": "527",
+                            "productId": 316180330,
+                            "name": "Vert moyen",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361527_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/527/2",
+                                    "set": 2,
+                                    "timestamp": "1703759575965",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361527000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 315241755,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584261800_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/261/800/2",
+                                    "set": 2,
+                                    "timestamp": "1701355301897",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "401",
+                            "productId": 315241754,
+                            "name": "Bleu marine",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361401_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/401/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382356",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361401000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "250",
+                            "productId": 315241756,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361250_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/250/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382303",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "672",
+                            "productId": 316180328,
+                            "name": "Prune fonc\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361672_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/672/2",
+                                    "set": 2,
+                                    "timestamp": "1703759556572",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361672000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584361",
+                    "discernProductId": 316180330
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#828874",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584361527_6_1_1",
+                        "path": "/2024/V/0/2/p/5584/361/527/2",
+                        "set": 2,
+                        "timestamp": "1703759575965",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "316180330",
+            "position": 5,
+            "scoring": 35.313,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=5&productId=316180330&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj01Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNjE4MDMzMF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY1MjclMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNTI3XzZfMV8xLmpwZyUzRnRzJTNEMTcwMzc1OTU3NTk2NSZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=5&productId=316180330&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj01Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNjE4MDMzMF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY1MjclMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNTI3XzZfMV8xLmpwZyUzRnRzJTNEMTcwMzc1OTU3NTk2NSZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=5&productId=316180330&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj01Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNjE4MDMzMF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY1MjclMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNTI3XzZfMV8xLmpwZyUzRnRzJTNEMTcwMzc1OTU3NTk2NSZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 323213410,
+                "reference": "C00679402737000-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "D\u00c9BARDEUR C\u00d4TEL\u00c9",
+                "price": 350000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "00679402-V2024",
+                    "displayReference": "0679/402",
+                    "colors": [
+                        {
+                            "id": "737",
+                            "productId": 323216378,
+                            "name": "Marron / Taupe",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0679402737_6_1_1",
+                                    "path": "/2024/V/0/2/p/0679/402/737/2",
+                                    "set": 2,
+                                    "timestamp": "1704357327596",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C00679402737000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "debardeur-cotele",
+                    "seoProductId": "00679402",
+                    "discernProductId": 323216378
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#62593E",
+                    "numAdditionalColors": 0
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "0679402737_6_1_1",
+                        "path": "/2024/V/0/2/p/0679/402/737/2",
+                        "set": 2,
+                        "timestamp": "1704357327596",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "323216378",
+            "position": 6,
+            "scoring": 35.0,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=6&productId=323216378&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj02Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9RCVDMyU4OUJBUkRFVVIrQyVDMyU5NFRFTCVDMyU4OSZwcm9kdWN0SWQ9MzIzMjE2Mzc4XzE2MjAxJnVybD1odHRwcyUzQSUyRiUyRnN0YXRpYy56YXJhLm5ldCUyRnBob3RvcyUyRiUyRiUyRjIwMjQlMkZWJTJGMCUyRjIlMkZwJTJGMDY3OSUyRjQwMiUyRjczNyUyRjIlMkZ3JTJGMjA0OCUyRjA2Nzk0MDI3MzdfNl8xXzEuanBnJTNGdHMlM0QxNzA0MzU3MzI3NTk2JnN0b3JlPTE2MjAxJndhcmVob3VzZT00NzU1MyZjYXRhbG9ndWU9NDU1NTEmc2VjdGlvbj1NQU4mY2F0YWxvZz1kZWZhdWx0JmV4dGVybmFsQm9vc3RlZD1mYWxzZSZzZXNzaW9uPW51bGw=&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=6&productId=323216378&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj02Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9RCVDMyU4OUJBUkRFVVIrQyVDMyU5NFRFTCVDMyU4OSZwcm9kdWN0SWQ9MzIzMjE2Mzc4XzE2MjAxJnVybD1odHRwcyUzQSUyRiUyRnN0YXRpYy56YXJhLm5ldCUyRnBob3RvcyUyRiUyRiUyRjIwMjQlMkZWJTJGMCUyRjIlMkZwJTJGMDY3OSUyRjQwMiUyRjczNyUyRjIlMkZ3JTJGMjA0OCUyRjA2Nzk0MDI3MzdfNl8xXzEuanBnJTNGdHMlM0QxNzA0MzU3MzI3NTk2JnN0b3JlPTE2MjAxJndhcmVob3VzZT00NzU1MyZjYXRhbG9ndWU9NDU1NTEmc2VjdGlvbj1NQU4mY2F0YWxvZz1kZWZhdWx0JmV4dGVybmFsQm9vc3RlZD1mYWxzZSZzZXNzaW9uPW51bGw=&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=6&productId=323216378&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj02Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9RCVDMyU4OUJBUkRFVVIrQyVDMyU5NFRFTCVDMyU4OSZwcm9kdWN0SWQ9MzIzMjE2Mzc4XzE2MjAxJnVybD1odHRwcyUzQSUyRiUyRnN0YXRpYy56YXJhLm5ldCUyRnBob3RvcyUyRiUyRiUyRjIwMjQlMkZWJTJGMCUyRjIlMkZwJTJGMDY3OSUyRjQwMiUyRjczNyUyRjIlMkZ3JTJGMjA0OCUyRjA2Nzk0MDI3MzdfNl8xXzEuanBnJTNGdHMlM0QxNzA0MzU3MzI3NTk2JnN0b3JlPTE2MjAxJndhcmVob3VzZT00NzU1MyZjYXRhbG9ndWU9NDU1NTEmc2VjdGlvbj1NQU4mY2F0YWxvZz1kZWZhdWx0JmV4dGVybmFsQm9vc3RlZD1mYWxzZSZzZXNzaW9uPW51bGw=&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 315220723,
+                "reference": "C05584361800000-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 250000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584361-V2024",
+                    "displayReference": "5584/361",
+                    "colors": [
+                        {
+                            "id": "800",
+                            "productId": 315241755,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584261800_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/261/800/2",
+                                    "set": 2,
+                                    "timestamp": "1701355301897",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "401",
+                            "productId": 315241754,
+                            "name": "Bleu marine",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361401_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/401/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382356",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361401000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "250",
+                            "productId": 315241756,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361250_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/250/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382303",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "672",
+                            "productId": 316180328,
+                            "name": "Prune fonc\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361672_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/672/2",
+                                    "set": 2,
+                                    "timestamp": "1703759556572",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361672000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "527",
+                            "productId": 316180330,
+                            "name": "Vert moyen",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361527_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/527/2",
+                                    "set": 2,
+                                    "timestamp": "1703759575965",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361527000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584361",
+                    "discernProductId": 315241755
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#191919",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584261800_6_1_1",
+                        "path": "/2024/V/0/2/p/5584/261/800/2",
+                        "set": 2,
+                        "timestamp": "1701355301897",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "315241755",
+            "position": 7,
+            "scoring": 30.0,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=7&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj03Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYyNjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MjYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTM1NTMwMTg5NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=7&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj03Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYyNjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MjYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTM1NTMwMTg5NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=7&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj03Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NV8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYyNjElMkY4MDAlMkYyJTJGdyUyRjIwNDglMkY1NTg0MjYxODAwXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTM1NTMwMTg5NyZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 315220723,
+                "reference": "C05584361401000-V2024",
+                "type": "PRODUCT",
+                "kind": "WEAR",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 250000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584361-V2024",
+                    "displayReference": "5584/361",
+                    "colors": [
+                        {
+                            "id": "401",
+                            "productId": 315241754,
+                            "name": "Bleu marine",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361401_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/401/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382356",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361401000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 315241755,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584261800_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/261/800/2",
+                                    "set": 2,
+                                    "timestamp": "1701355301897",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "250",
+                            "productId": 315241756,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361250_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/250/2",
+                                    "set": 2,
+                                    "timestamp": "1701943382303",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "672",
+                            "productId": 316180328,
+                            "name": "Prune fonc\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361672_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/672/2",
+                                    "set": 2,
+                                    "timestamp": "1703759556572",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361672000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "527",
+                            "productId": 316180330,
+                            "name": "Vert moyen",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361527_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/527/2",
+                                    "set": 2,
+                                    "timestamp": "1703759575965",
+                                    "type": "image",
+                                    "width": 2048
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361527000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584361",
+                    "discernProductId": 315241754
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#22242D",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584361401_6_1_1",
+                        "path": "/2024/V/0/2/p/5584/361/401/2",
+                        "set": 2,
+                        "timestamp": "1701943382356",
+                        "type": "image",
+                        "width": 2048
+                    }
+                ]
+            },
+            "id": "315241754",
+            "position": 8,
+            "scoring": 30.0,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=8&productId=315241754&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj04Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY0MDElMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNDAxXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MzM4MjM1NiZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=8&productId=315241754&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj04Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY0MDElMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNDAxXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MzM4MjM1NiZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&position=8&productId=315241754&deviceType=desktop&deviceOS=Linux&providerParams=cT10c2hpcnQmbGFuZz1mcl9GUiZzY29wZT1kZWZhdWx0JnBhZ2U9MSZwb3NpdGlvbj04Jm9yaWdpbj1kZWZhdWx0JmZpbHRlcmVkPXRydWUmc3BlbGxjaGVjaz1mYWxzZSZmb2xsb3c9ZmFsc2UmdGl0bGU9VC1TSElSVCtCQVNJUVVFKyVDMyU4MCtDT1VQRSslQzMlODlUUk9JVEUmcHJvZHVjdElkPTMxNTI0MTc1NF8xNjIwMSZ1cmw9aHR0cHMlM0ElMkYlMkZzdGF0aWMuemFyYS5uZXQlMkZwaG90b3MlMkYlMkYlMkYyMDI0JTJGViUyRjAlMkYyJTJGcCUyRjU1ODQlMkYzNjElMkY0MDElMkYyJTJGdyUyRjIwNDglMkY1NTg0MzYxNDAxXzZfMV8xLmpwZyUzRnRzJTNEMTcwMTk0MzM4MjM1NiZzdG9yZT0xNjIwMSZ3YXJlaG91c2U9NDc1NTMmY2F0YWxvZ3VlPTQ1NTUxJnNlY3Rpb249TUFOJmNhdGFsb2c9ZGVmYXVsdCZleHRlcm5hbEJvb3N0ZWQ9ZmFsc2Umc2Vzc2lvbj1udWxs&scope=default&provider=empathy"
+            }
+        }
+    ],
+    "tagging": {
+        "query": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/query?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=104&page=0&pageSize=8&deviceType=desktop&deviceOS=Linux&providerParams=Y2F0YWxvZz1kZWZhdWx0Jm9yaWdpbj1kZWZhdWx0JnN0b3JlPTE2MjAxJndhcmVob3VzZT00NzU1MyZ0eXBlPTQmZm9sbG93PWZhbHNlJmNhdGFsb2d1ZT00NTU1MSZxPXRzaGlydCZmaWx0ZXJlZD10cnVlJnNwZWxsY2hlY2s9ZmFsc2Umc2NvcGU9ZGVmYXVsdCZwYWdlPTEmbGFuZz1mcl9GUiZzZWN0aW9uPU1BTiZ0b3RhbEhpdHM9MTA0JnNlc3Npb249bnVsbA==&scope=default&provider=empathy"
+    },
+    "totalResults": 104,
+    "additionalEntities": [],
+    "alternativeResults": [],
+    "provider": "Empathy",
+    "searchpass": "EXACT",
+    "cursor": "AAAACA",
+    "debugInfo": {},
+    "isLastPage": false
+}
