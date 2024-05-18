@@ -68,12 +68,17 @@ url = "https://pmg.dz/page/"
 
 def product_structure():
     return {
-        "image": "",
-        "title": "",
-        "brand": "",
+        # "product_id": "",
+        "img": "",
+        "name": "",
+        "sectionName": "",
+        "familyName": "",
+        "subfamilyName": "",
+        "displayDiscountPercentage": "",
         "price": "",
-        "old_price": "",
+        "oldPrice": "",
         "link": "",
+        "websiteId": ""
     }
 
 
@@ -152,7 +157,7 @@ def insert_into_database(products_list):
     host = "localhost"
     password = "root"
     database = "diaa"
-    table_name = "pmg_products"
+    table_name = "product"
 
     connection = create_pymysql_connection(
         host=host, password=password, database=database, user=user
@@ -168,6 +173,7 @@ def insert_into_database(products_list):
 
 def fetch_pages(url, params, headers):
     number_pages = get_pages_number(params=params, headers=headers)
+    print(number_pages)
     products_list = []  # Initialize an empty list to store products
     for nb_page in range(1, number_pages + 1):  # Iterate over page numbers
         response = requests.get(
@@ -176,14 +182,15 @@ def fetch_pages(url, params, headers):
             headers=headers,
         )
         html_page = response.text
+        # print(html_page)
 
-        products = BeautifulSoup(html_page, "html.parser").find_all(class_="grid_item")
+        products = BeautifulSoup(html_page, "html.parser").find_all(class_="product-small box")
         print(len(products))
         for prd in products:
-            prd_img = prd.find("img")["src"]
-            prd_title = prd.find("h3").text
-            prd_brand = prd.find("a", class_="brand").text
-            prd_link = prd.find("a", class_="product-title").get("href")
+            prd_img = prd.find("img").get('data-src')
+            # print(prd_img)
+            prd_title = prd.find("p" , class_="product-title").find("a").text
+            prd_link = prd.find("a").get("href")
             if prd.find("del"):
                 prd_old_price = prd.find("del").find("bdi").text
                 prd_price = prd.find("ins").find("bdi").text
@@ -192,12 +199,17 @@ def fetch_pages(url, params, headers):
                 prd_old_price = None
 
             product = product_structure()
-            product["image"] = prd_img
-            product["title"] = prd_title
-            product["brand"] = prd_brand
+            product["name"] = prd_title
+            product["img"] = prd_img
+            product["sectionName"] = None
+            product["familyName"] = None
+            product["subfamilyName"] = None
+            product["availabilty"] = None
+            product["displayDiscountPercentage"] = None
             product["price"] = prd_price
-            product["old_price"] = prd_old_price
+            product["oldPrice"] = prd_old_price
             product["link"] = prd_link
+            product["websiteId"] = '2'
             products_list.append(product)
 
     return products_list
@@ -205,4 +217,4 @@ def fetch_pages(url, params, headers):
 
 products_list = fetch_pages(url=url, params=params, headers=headers)
 insert_into_database(products_list)
-print(products_list)
+# print(products_list)

@@ -60,7 +60,7 @@ def generate_insert_query(table_structure, table_name):
     names = list(table_structure)
     cols = ', '.join(map(format_query_column, names))
     placeholders = ', '.join(['%({})s'.format(name) for name in names])
-    query = 'INSERT INTO {} ({}) VALUES ({})'.format(table_name, cols, placeholders)
+    query = 'REPLACE INTO {} ({}) VALUES ({})'.format(table_name, cols, placeholders)
     return query
 
 def insert_into_database(products):
@@ -74,7 +74,7 @@ def insert_into_database(products):
     user = 'root'
     password = 'root'
     database = 'diaa'
-    table_name = "products"
+    table_name = "product"
 
     connection = create_pymysql_connection(host=host, password=password, user=user, database=database)
     sql = generate_insert_query(product_struct(), table_name)
@@ -93,7 +93,7 @@ def product_struct():
         dict: Dictionary representing the structure of product data.
     """
     return {
-        "product_id": "",
+        
         "availability": "",
         "name": "",
         "price": "",
@@ -104,6 +104,7 @@ def product_struct():
         "sectionName": "",
         "img": "",
         "link":"",
+        "websiteId":""
     }
 
 def fetch_page_data(url, params):
@@ -181,12 +182,11 @@ def fetch_page_data(url, params):
         product["oldPrice"] = product_oldPrice  
         product["displayDiscountPercentage"] = product_displayDiscountPercentage  
         product["familyName"] = product_familyName
-        product["product_id"] = product_id
         product["subfamilyName"] = product_subfamilyName
         product["sectionName"] = product_sectionName
         product["img"] = product_img_link
         product["link"] = product_link
-        
+        product["websiteId"] = '1'
         product_list.append(product)
         cpt+=1
         print(cpt)
