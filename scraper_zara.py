@@ -94,17 +94,15 @@ def product_struct():
     """
     return {
         
-        "availability": "",
-        "name": "",
-        "price": "",
-        "oldPrice" : "",
-        "displayDiscountPercentage" : "",
-        "familyName": "",
-        "subfamilyName": "",
-        "sectionName": "",
+        "product_id": "",
         "img": "",
-        "link":"",
-        "websiteId":""
+        "name": "",
+        "sectionName": "",
+        "availability":"",
+        "price": "",
+        "oldPrice": "",
+        "link": "",
+        "websiteId": ""
     }
 
 def fetch_page_data(url, params):
@@ -144,18 +142,18 @@ def fetch_page_data(url, params):
             continue  
         else:
             product = product_struct()
+            
             product_availability = row["content"]["availability"]
             product_name = row["content"]["name"]
             product_price = row["content"]["price"]  
-            product_familyName = row["content"]["familyName"]
+         
             product_id = row["content"]["id"]
-            product_subfamilyName = row["content"]["subfamilyName"]
+           
             product_sectionName = row["content"]["sectionName"]
             if "oldPrice" in row["content"]:
                 product_oldPrice = row["content"]["oldPrice"]
-                product_displayDiscountPercentage = row["content"]["displayDiscountPercentage"]
+               
             else:
-                product_displayDiscountPercentage = None  
                 product_oldPrice = None 
         
             img_path = row["content"]["xmedia"][0]["path"]
@@ -175,18 +173,16 @@ def fetch_page_data(url, params):
             # p00679402.html?    == seoProductId
             # v1=323216378  == discernProductId
        
-         
+        product["product_id"] = product_id
         product["availability"] = product_availability
         product["name"] = product_name
         product["price"] = product_price
         product["oldPrice"] = product_oldPrice  
-        product["displayDiscountPercentage"] = product_displayDiscountPercentage  
-        product["familyName"] = product_familyName
-        product["subfamilyName"] = product_subfamilyName
         product["sectionName"] = product_sectionName
         product["img"] = product_img_link
         product["link"] = product_link
-        product["websiteId"] = '1'
+        product["websiteId"] = 1
+      
         product_list.append(product)
         cpt+=1
         print(cpt)
@@ -241,3 +237,43 @@ if __name__ == "__main__":
     except Exception as e:
         print("Exception:", e)
         sys.exit()
+        
+        
+
+def generate_insert_website_query(table_name):
+    query = "REPLACE INTO {} (NombreS) VALUES (%s)".format(table_name)
+    return query
+
+
+def increment_website_count(connection, table_name, website_id):
+    current_count = 0
+    if website_id == 1:
+        with connection.cursor() as cursor:
+            cursor.execute("SELECT NombreS FROM {} WHERE website_id = %s".format(table_name), (website_id,))
+            result = cursor.fetchone()
+            if result:
+                current_count = result["NombreS"]
+                current_count += 1
+                cursor.execute("UPDATE {} SET NombreS = %s WHERE website_id = %s".format(table_name), (current_count, website_id))
+            else:
+                cursor.execute("INSERT INTO {} (NombreS, websiteId) VALUES (%s, %s)".format(table_name), (1, website_id))
+        connection.commit()
+    return current_count
+
+def insert_into_website_table(connection, current_count):
+    table_name = "website"
+    sql = generate_insert_website_query(table_name)
+    # print(sql)
+    with connection.cursor() as cursor:
+        cursor.execute(sql, (current_count,))
+    connection.commit()
+
+# Avant votre boucle de scrapping
+connection = create_pymysql_connection(host='localhost', password='root', database='diaa', user='root')
+current_count = increment_website_count(connection, "website" , 1)
+print(current_count)
+
+insert_into_website_table(connection, current_count)
+
+# print(products_list)
+

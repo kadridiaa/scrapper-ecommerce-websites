@@ -1,0 +1,2307 @@
+{
+    "products": [
+        {
+            "id": 159969171,
+            "type": "BundleBean",
+            "name": "T-shirt manches courtes imprim\u00e9",
+            "nameEn": "Short sleeve T-shirt with print",
+            "image": null,
+            "backSoon": "0",
+            "unitsLot": 0,
+            "isTop": 1,
+            "subFamily": "511",
+            "productType": "Clothing",
+            "bundleColors": [
+                {
+                    "id": 250,
+                    "name": "Blanc"
+                }
+            ],
+            "tags": [],
+            "attributes": [
+                {
+                    "id": "7010000000000316501",
+                    "name": "Camiseta",
+                    "value": "T-shirt",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000328548",
+                    "name": "Lettering",
+                    "value": "lettering",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000164555",
+                    "name": "Manga Corta",
+                    "value": "Manches courtes",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000202014",
+                    "name": "Print",
+                    "value": "Imprim\u00e9",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7000000000000027501",
+                    "name": "G-BLANCO",
+                    "value": "Blanc",
+                    "type": "XCOLFILTER"
+                },
+                {
+                    "id": "7010000000001529583",
+                    "name": "Product Season V2024",
+                    "value": "V2024",
+                    "type": "XTYPEFILTER"
+                },
+                {
+                    "id": "7010000000000817014",
+                    "name": "ProductType: Clothing",
+                    "value": "V\u00eatements",
+                    "type": "XTYPEFILTER"
+                }
+            ],
+            "relatedCategories": [
+                {
+                    "id": 1010193239,
+                    "identifier": "2_T_CAMISETAS",
+                    "name": "Tee-shirts",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010193563,
+                    "identifier": "2_T_CAMISETAS_ESTAMPADAS",
+                    "name": "Imprim\u00e9s",
+                    "urlCategory": true
+                }
+            ],
+            "attachments": [],
+            "bundleProductSummaries": [
+                {
+                    "id": 159968265,
+                    "type": "ProductBean",
+                    "name": "T-shirt manches courtes imprim\u00e9",
+                    "nameEn": "Short sleeve T-shirt with print",
+                    "backSoon": "0",
+                    "unitsLot": 0,
+                    "isTop": 1,
+                    "sizeSystem": "10026",
+                    "subFamily": "511",
+                    "productType": "Clothing",
+                    "bundleColors": [],
+                    "tags": [],
+                    "attributes": [
+                        {
+                            "id": "7010000000000979000",
+                            "name": "[comp_lvl_1]",
+                            "value": "CIRCULAR_CHICO",
+                            "type": "XCOMPRADOR"
+                        },
+                        {
+                            "id": "7010000000000979001",
+                            "name": "[comp_lvl_2]",
+                            "value": "CAMISETAS&POLOS",
+                            "type": "XCOMPRADOR"
+                        },
+                        {
+                            "id": "171712183137034572",
+                            "name": "XMANUFACTURER",
+                            "value": "XMANUFACTURER",
+                            "type": "XMANUFACTURER"
+                        },
+                        {
+                            "id": "7010000000000326001",
+                            "name": "XMANUFACTURER",
+                            "value": "XMANUFACTURER",
+                            "type": "XMANUFACTURER"
+                        },
+                        {
+                            "id": "17171218313708529",
+                            "name": "XMAN_DATE",
+                            "value": "XMAN_DATE",
+                            "type": "XMAN_DATE"
+                        },
+                        {
+                            "id": "7010000000000329501",
+                            "name": "XMAN_DATE",
+                            "value": "XMAN_DATE",
+                            "type": "XMAN_DATE"
+                        },
+                        {
+                            "id": "7010000000001372043",
+                            "name": "NEUTRO[5278]",
+                            "value": "NEUTRO",
+                            "type": "XSECONDATTR"
+                        }
+                    ],
+                    "relatedCategories": [
+                        {
+                            "id": 1010452537,
+                            "identifier": "2_T_PARTNUMBERS_V2024_NOWEB_NOAPP",
+                            "name": "PARTNUMBER",
+                            "urlCategory": true
+                        }
+                    ],
+                    "attachments": [],
+                    "bundleProductSummaries": [],
+                    "detail": {
+                        "description": "",
+                        "longDescription": "",
+                        "reference": "07985480-V2024",
+                        "displayReference": "7985/480",
+                        "defaultImageType": null,
+                        "composition": [
+                            {
+                                "part": "1",
+                                "composition": [
+                                    {
+                                        "id": "171712183137554991",
+                                        "name": "coton",
+                                        "description": "100",
+                                        "percentage": "100"
+                                    }
+                                ]
+                            }
+                        ],
+                        "compositionByZone": [],
+                        "care": [
+                            {
+                                "id": "7000000000000016003",
+                                "name": "7",
+                                "description": "LAVABLE EN MACHINE MAX.30\u00baC FRAGILE"
+                            },
+                            {
+                                "id": "7000000000000016001",
+                                "name": "14",
+                                "description": "EAU DE JAVEL INTERDITE"
+                            },
+                            {
+                                "id": "7000000000000016004",
+                                "name": "18",
+                                "description": "REPASSER MAX. 110\u00baC"
+                            },
+                            {
+                                "id": "7000000000000016005",
+                                "name": "31",
+                                "description": "SECHER EN MACHINE BASSE TEMPERATURE"
+                            },
+                            {
+                                "id": "7000000000000016002",
+                                "name": "125",
+                                "description": "NETTOYAGE A SEC T\u00c9TRACHLORO\u00c9THYL\u00c8NE"
+                            }
+                        ],
+                        "colors": [
+                            {
+                                "id": "250",
+                                "catentryId": 159969171,
+                                "reference": "C07985480250-V2024",
+                                "name": "Blanc",
+                                "modelHeigh": "185 cm",
+                                "modelName": "827",
+                                "modelSize": "L",
+                                "image": {
+                                    "timestamp": "1715693749012",
+                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250",
+                                    "aux": [
+                                        "1",
+                                        "2",
+                                        "3",
+                                        "4",
+                                        "5",
+                                        "13"
+                                    ],
+                                    "type": [
+                                        "1",
+                                        "2",
+                                        "3"
+                                    ],
+                                    "style": [],
+                                    "availableEstilismo": false
+                                },
+                                "sizes": [
+                                    {
+                                        "sku": 159968266,
+                                        "name": "XS",
+                                        "description": null,
+                                        "partnumber": "0798548025001-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "101",
+                                        "position": 2,
+                                        "price": "250000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "BANGLADESH",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 159968268,
+                                        "name": "S",
+                                        "description": null,
+                                        "partnumber": "0798548025002-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "102",
+                                        "position": 3,
+                                        "price": "250000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "BANGLADESH",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 159968267,
+                                        "name": "M",
+                                        "description": null,
+                                        "partnumber": "0798548025003-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "103",
+                                        "position": 4,
+                                        "price": "250000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "BANGLADESH",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 159968270,
+                                        "name": "L",
+                                        "description": null,
+                                        "partnumber": "0798548025004-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "104",
+                                        "position": 5,
+                                        "price": "250000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "BANGLADESH",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 159968269,
+                                        "name": "XL",
+                                        "description": null,
+                                        "partnumber": "0798548025005-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "105",
+                                        "position": 6,
+                                        "price": "250000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "BANGLADESH",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "isContinuity": false,
+                                "composition": [
+                                    {
+                                        "part": "1",
+                                        "composition": [
+                                            {
+                                                "id": "171712183137554991",
+                                                "name": "coton",
+                                                "description": "100",
+                                                "percentage": "100"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "compositionByZone": [],
+                                "compositionDetail": {
+                                    "parts": [
+                                        {
+                                            "id": "1",
+                                            "description": "EXT\u00c9RIEUR",
+                                            "areas": [],
+                                            "components": [
+                                                {
+                                                    "material": "coton",
+                                                    "percentage": "100%"
+                                                }
+                                            ],
+                                            "microcontents": [],
+                                            "reinforcements": []
+                                        }
+                                    ],
+                                    "exceptions": []
+                                },
+                                "colFilter": [],
+                                "sustainability": {
+                                    "show": false,
+                                    "syntheticFiberPercentage": {
+                                        "name": ""
+                                    }
+                                },
+                                "traceability": {
+                                    "show": false,
+                                    "weaving": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "dyeingPrinting": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "confection": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "assembly": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "pricking": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "finish": {
+                                        "name": "",
+                                        "country": []
+                                    }
+                                },
+                                "joinLifeLabelInfo": {
+                                    "show": false,
+                                    "areas": []
+                                },
+                                "certifiedMaterials": {
+                                    "show": false,
+                                    "materials": []
+                                }
+                            }
+                        ],
+                        "relatedProducts": [],
+                        "xmediaDefaultSet": null,
+                        "xmedia": [
+                            {
+                                "path": "/2024/V/0/2/p/7985/480/250",
+                                "xmediaItems": [
+                                    {
+                                        "medias": [
+                                            {
+                                                "format": 1,
+                                                "clazz": 2,
+                                                "idMedia": "7985480250_3_1_",
+                                                "timestamp": 1715693709927,
+                                                "extraInfo": {
+                                                    "originalName": "r1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "749573badcdc84c6add3b9dc3d708000",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_3_1_0.jpg?imwidth=:width:&ts=1715693709775"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_5_",
+                                                "timestamp": 1715693714403,
+                                                "extraInfo": {
+                                                    "originalName": "a5o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "c175e98dff4d0e73ec7751c367d074e5",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_5_0.jpg?imwidth=:width:&ts=1715693712438"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_3_",
+                                                "timestamp": 1715693719684,
+                                                "extraInfo": {
+                                                    "originalName": "a3o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "15a8e1c716f7b64548d6a054657a1b29",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_3_0.jpg?imwidth=:width:&ts=1715693717861"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_1_1_",
+                                                "timestamp": 1715693726081,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "f3aa8bda5715fcc2f15f077ce8338b12",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_1_1_0.jpg?imwidth=:width:&ts=1715693723299"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_1_",
+                                                "timestamp": 1715693732468,
+                                                "extraInfo": {
+                                                    "originalName": "a1t",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "285019ab56e094b2576e650470a86021",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_1_0.jpg?imwidth=:width:&ts=1715693730056"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_2_",
+                                                "timestamp": 1715693737799,
+                                                "extraInfo": {
+                                                    "originalName": "a2d",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "7e7c911fa0955021bd1bd24f36243c1d",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_2_0.jpg?imwidth=:width:&ts=1715693735296"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_4_",
+                                                "timestamp": 1715693744050,
+                                                "extraInfo": {
+                                                    "originalName": "a4o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "e9ab55e188fd959894aee65604ac6a56",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_4_0.jpg?imwidth=:width:&ts=1715693741676"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "7985480250_2_13_",
+                                                "timestamp": 1715693749012,
+                                                "extraInfo": {
+                                                    "originalName": "b1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "721ddf8a2d95918698dca895b1aae9be",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/2/p/7985/480/250/7985480250_2_13_0.jpg?imwidth=:width:&ts=1715693747639"
+                                                },
+                                                "isModel": false
+                                            }
+                                        ],
+                                        "set": 0
+                                    }
+                                ],
+                                "colorCode": "250",
+                                "xmediaLocations": [
+                                    {
+                                        "locations": [
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_1_1_",
+                                                    "7985480250_2_1_",
+                                                    "7985480250_2_2_",
+                                                    "7985480250_2_3_",
+                                                    "7985480250_2_4_",
+                                                    "7985480250_2_13_",
+                                                    "7985480250_2_5_"
+                                                ],
+                                                "location": 0
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_1_1_",
+                                                    "7985480250_2_1_",
+                                                    "7985480250_2_2_",
+                                                    "7985480250_2_3_",
+                                                    "7985480250_2_4_",
+                                                    "7985480250_2_13_",
+                                                    "7985480250_2_5_"
+                                                ],
+                                                "location": 1
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_1_1_"
+                                                ],
+                                                "location": 2
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_3_1_"
+                                                ],
+                                                "location": 3
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_2_4_"
+                                                ],
+                                                "location": 4
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_2_4_"
+                                                ],
+                                                "location": 5
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "7985480250_1_1_"
+                                                ],
+                                                "location": 6
+                                            }
+                                        ],
+                                        "set": 0
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [],
+                        "familyInfo": {
+                            "familyId": 170,
+                            "familyCode": 11,
+                            "familyName": "Tee-Shirts"
+                        },
+                        "subfamilyInfo": {
+                            "subFamilyId": 808,
+                            "subFamilyCode": 511,
+                            "subFamilyName": "Tee-Shirts"
+                        },
+                        "joinLife": "",
+                        "joinType": "",
+                        "isJoinLife": false,
+                        "compositionDetail": {
+                            "parts": [
+                                {
+                                    "id": "1",
+                                    "description": "EXT\u00c9RIEUR",
+                                    "areas": [],
+                                    "components": [
+                                        {
+                                            "material": "coton",
+                                            "percentage": "100%"
+                                        }
+                                    ],
+                                    "microcontents": [],
+                                    "reinforcements": []
+                                }
+                            ],
+                            "exceptions": []
+                        },
+                        "promotions": [],
+                        "country": ""
+                    },
+                    "field5": "250#1715693709927",
+                    "section": "2",
+                    "family": "170",
+                    "sectionName": "",
+                    "sectionNameEN": "MEN",
+                    "familyName": "Tee-Shirts",
+                    "familyNameEN": "T-Shirts",
+                    "subFamilyName": "Tee-Shirts",
+                    "subFamilyNameEN": "T-Shirts",
+                    "startDate": "",
+                    "productUrl": "tshirt-manches-courtes-imprime-l07985480",
+                    "gridElemType": "PRODUCT",
+                    "availabilityDate": "2024-05-28 00:00:00.0",
+                    "isBuyable": true,
+                    "onSpecial": false
+                }
+            ],
+            "detail": {
+                "description": "",
+                "longDescription": "",
+                "reference": "C07985480250-V2024",
+                "displayReference": "7985/480",
+                "defaultImageType": null,
+                "composition": [],
+                "compositionByZone": [],
+                "care": [],
+                "colors": [],
+                "relatedProducts": [],
+                "xmediaDefaultSet": null,
+                "relatedElements": [],
+                "warnings": [],
+                "familyInfo": {
+                    "familyId": 170,
+                    "familyCode": 11,
+                    "familyName": "Tee-Shirts"
+                },
+                "subfamilyInfo": {
+                    "subFamilyId": 808,
+                    "subFamilyCode": 511,
+                    "subFamilyName": "Tee-Shirts"
+                },
+                "isJoinLife": false,
+                "promotions": []
+            },
+            "field5": "250#1715693709927",
+            "section": "2",
+            "family": "170",
+            "sectionNameEN": "MEN",
+            "familyName": "Tee-Shirts",
+            "familyNameEN": "T-Shirts",
+            "subFamilyName": "Tee-Shirts",
+            "subFamilyNameEN": "T-Shirts",
+            "startDate": "",
+            "keywords": "",
+            "mainColorid": "250",
+            "familyCode": null,
+            "subFamilyCode": "511",
+            "productUrl": "tshirt-manches-courtes-imprime-l07985480",
+            "productUrlParam": "159969171",
+            "gridElemType": "MOCACO",
+            "availabilityDate": "2024-05-28 00:00:00.0",
+            "visibilityValue": "SOLD_OUT",
+            "alternativeProductId": 159968265,
+            "isBuyable": true,
+            "onSpecial": true,
+            "rueiData": {
+                "StoreLangRUEI": "<!--itxStoreLang='fr'-->",
+                "StoreTypeRUEI": "<!--itxStoreType='NO_VENTA'-->",
+                "OperationTypeRUEI": "<!--itxOperationType='rest-service-impl'-->",
+                "OperationRUEI": "<!--itxOperation='get-product-detail'-->",
+                "StoreIdRUEI": "<!--itxStoreId='DZ'-->"
+            }
+        },
+        {
+            "id": 160272500,
+            "type": "BundleBean",
+            "name": "T-shirt Inter Miami CF cropped imprim\u00e9",
+            "nameEn": "Inter Miami CF print cropped T-shirt",
+            "image": null,
+            "backSoon": "0",
+            "unitsLot": 0,
+            "isTop": 1,
+            "subFamily": "111",
+            "productType": "Clothing",
+            "bundleColors": [
+                {
+                    "id": 906,
+                    "name": "Rose"
+                }
+            ],
+            "tags": [],
+            "attributes": [
+                {
+                    "id": "7010000000001620105",
+                    "name": "MLS",
+                    "value": "MLS",
+                    "type": "CUSTOM_MARKETING"
+                },
+                {
+                    "id": "7010000000000164557",
+                    "name": "Ajustado",
+                    "value": "Ajust\u00e9",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000316501",
+                    "name": "Camiseta",
+                    "value": "T-shirt",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000001094530",
+                    "name": "Cropped",
+                    "value": "Cropped",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000001592606",
+                    "name": "Futbol",
+                    "value": "Football",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000001234539",
+                    "name": "Gr\u00e1fico",
+                    "value": "Graphique",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000416514",
+                    "name": "Licencias",
+                    "value": "Licences",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000001643107",
+                    "name": "MLs",
+                    "value": "MLS",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000164555",
+                    "name": "Manga Corta",
+                    "value": "Manches courtes",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000202014",
+                    "name": "Print",
+                    "value": "Imprim\u00e9",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7010000000000164600",
+                    "name": "Top",
+                    "value": "Brassi\u00e8re",
+                    "type": "PRODUCT_TAG"
+                },
+                {
+                    "id": "7000000000000027521",
+                    "name": "G-ROSA",
+                    "value": "Rose",
+                    "type": "XCOLFILTER"
+                },
+                {
+                    "id": "7010000000001529583",
+                    "name": "Product Season V2024",
+                    "value": "V2024",
+                    "type": "XTYPEFILTER"
+                },
+                {
+                    "id": "7010000000000817014",
+                    "name": "ProductType: Clothing",
+                    "value": "V\u00eatements",
+                    "type": "XTYPEFILTER"
+                }
+            ],
+            "relatedCategories": [
+                {
+                    "id": 1010193217,
+                    "identifier": "1_T_CAMISETAS_HIDDEN",
+                    "name": "Tee-shirts",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010193220,
+                    "identifier": "1_T_TOPS_BODIES_HIDDEN",
+                    "name": "Tops et bodies",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010193279,
+                    "identifier": "1_T_CAMISETAS_MCORTA",
+                    "name": "Manche Courte",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010310023,
+                    "identifier": "1_T_CAMISETAS_LICENCIAS",
+                    "name": "Musique et collaborations\u00ae",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010310507,
+                    "identifier": "1_T_LICENCIAS_MCC_HIDDEN",
+                    "name": "Collaborations\u00ae",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010729853,
+                    "identifier": "1_T_TOPS_MCORTA",
+                    "name": "Manche Courte",
+                    "urlCategory": true
+                },
+                {
+                    "id": 1010738405,
+                    "identifier": "1_T_MLS_BUSCADOR_HIDDEN",
+                    "name": "INTER MIAMI CF LA GALAXY NEW YORK RED BULLS",
+                    "urlCategory": true
+                }
+            ],
+            "attachments": [],
+            "bundleProductSummaries": [
+                {
+                    "id": 160271135,
+                    "type": "ProductBean",
+                    "name": "T-shirt Inter Miami CF cropped imprim\u00e9",
+                    "nameEn": "Inter Miami CF print cropped T-shirt",
+                    "backSoon": "0",
+                    "unitsLot": 0,
+                    "isTop": 1,
+                    "sizeSystem": "13826",
+                    "subFamily": "111",
+                    "productType": "Clothing",
+                    "bundleColors": [],
+                    "tags": [],
+                    "attributes": [
+                        {
+                            "id": "7010000000000979000",
+                            "name": "[comp_lvl_1]",
+                            "value": "CIRCULAR",
+                            "type": "XCOMPRADOR"
+                        },
+                        {
+                            "id": "7010000000000979001",
+                            "name": "[comp_lvl_2]",
+                            "value": "CAMISETAS & TOPS",
+                            "type": "XCOMPRADOR"
+                        },
+                        {
+                            "id": "7010000000000326001",
+                            "name": "XMANUFACTURER",
+                            "value": "XMANUFACTURER",
+                            "type": "XMANUFACTURER"
+                        },
+                        {
+                            "id": "171712183137498424",
+                            "name": "XMANUFACTURER",
+                            "value": "XMANUFACTURER",
+                            "type": "XMANUFACTURER"
+                        },
+                        {
+                            "id": "7010000000000329501",
+                            "name": "XMAN_DATE",
+                            "value": "XMAN_DATE",
+                            "type": "XMAN_DATE"
+                        },
+                        {
+                            "id": "171712183137452279",
+                            "name": "XMAN_DATE",
+                            "value": "XMAN_DATE",
+                            "type": "XMAN_DATE"
+                        },
+                        {
+                            "id": "7010000000001372031",
+                            "name": "BERSHKA[1707]",
+                            "value": "BERSHKA",
+                            "type": "XSECONDATTR"
+                        }
+                    ],
+                    "relatedCategories": [
+                        {
+                            "id": 1010742404,
+                            "identifier": "1_T_PADRES_I2024_1_NOWEB_NOAPP",
+                            "name": "PADRES",
+                            "urlCategory": true
+                        }
+                    ],
+                    "attachments": [],
+                    "bundleProductSummaries": [],
+                    "detail": {
+                        "description": "",
+                        "longDescription": "",
+                        "reference": "02815296-V2024",
+                        "displayReference": "2815/296",
+                        "defaultImageType": null,
+                        "composition": [
+                            {
+                                "part": "1",
+                                "composition": [
+                                    {
+                                        "id": "171712183137461306",
+                                        "name": "polyester",
+                                        "description": "91",
+                                        "percentage": "91"
+                                    }
+                                ]
+                            },
+                            {
+                                "part": "1",
+                                "composition": [
+                                    {
+                                        "id": "171712183137485914",
+                                        "name": "\u00e9lasthanne",
+                                        "description": "9",
+                                        "percentage": "9"
+                                    }
+                                ]
+                            }
+                        ],
+                        "compositionByZone": [],
+                        "care": [
+                            {
+                                "id": "7000000000000016003",
+                                "name": "7",
+                                "description": "LAVABLE EN MACHINE MAX.30\u00baC FRAGILE"
+                            },
+                            {
+                                "id": "7000000000000016001",
+                                "name": "14",
+                                "description": "EAU DE JAVEL INTERDITE"
+                            },
+                            {
+                                "id": "7000000000000016004",
+                                "name": "18",
+                                "description": "REPASSER MAX. 110\u00baC"
+                            },
+                            {
+                                "id": "7000000000000016002",
+                                "name": "28",
+                                "description": "NE PAS NETTOYER A SEC"
+                            },
+                            {
+                                "id": "7000000000000016005",
+                                "name": "35",
+                                "description": "NE PAS SECHER EN MACHINE"
+                            },
+                            {
+                                "id": "7000000000000450001",
+                                "name": "61",
+                                "description": "LAVER \u00c1 L\u00b4ENVERS"
+                            },
+                            {
+                                "id": "7000000000000450001",
+                                "name": "65",
+                                "description": "REPASSER A L\u00b4ENVERS"
+                            }
+                        ],
+                        "colors": [
+                            {
+                                "id": "906",
+                                "catentryId": 160272500,
+                                "reference": "C02815296906-V2024",
+                                "name": "Rose",
+                                "modelHeigh": "175 cm",
+                                "modelName": "843",
+                                "modelSize": "S",
+                                "image": {
+                                    "timestamp": "1715003462770",
+                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906",
+                                    "aux": [
+                                        "1",
+                                        "2",
+                                        "3",
+                                        "4",
+                                        "5",
+                                        "6",
+                                        "7",
+                                        "13",
+                                        "17",
+                                        "18"
+                                    ],
+                                    "type": [
+                                        "1",
+                                        "2",
+                                        "3",
+                                        "4"
+                                    ],
+                                    "style": [
+                                        "14",
+                                        "13",
+                                        "01"
+                                    ],
+                                    "availableEstilismo": false
+                                },
+                                "sizes": [
+                                    {
+                                        "sku": 160271140,
+                                        "name": "10-12",
+                                        "description": null,
+                                        "partnumber": "0281529690611-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "11",
+                                        "position": 1,
+                                        "price": "490000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "TURQUIE",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 160271136,
+                                        "name": "XS",
+                                        "description": null,
+                                        "partnumber": "0281529690601-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "101",
+                                        "position": 3,
+                                        "price": "490000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "TURQUIE",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 160271138,
+                                        "name": "S",
+                                        "description": null,
+                                        "partnumber": "0281529690602-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "102",
+                                        "position": 4,
+                                        "price": "490000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "TURQUIE",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 160271137,
+                                        "name": "M",
+                                        "description": null,
+                                        "partnumber": "0281529690603-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "103",
+                                        "position": 5,
+                                        "price": "490000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "TURQUIE",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sku": 160271139,
+                                        "name": "L",
+                                        "description": null,
+                                        "partnumber": "0281529690604-V2024",
+                                        "isBuyable": true,
+                                        "backSoon": "0",
+                                        "mastersSizeId": "104",
+                                        "position": 6,
+                                        "price": "490000",
+                                        "oldPrice": null,
+                                        "sizeType": "regular",
+                                        "country": "TURQUIE",
+                                        "skuDimensions": [],
+                                        "visibilityValue": "SOLD_OUT",
+                                        "attributes": [
+                                            {
+                                                "name": "PACKAGING"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "isContinuity": false,
+                                "composition": [
+                                    {
+                                        "part": "1",
+                                        "composition": [
+                                            {
+                                                "id": "171712183137461306",
+                                                "name": "polyester",
+                                                "description": "91",
+                                                "percentage": "91"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "part": "1",
+                                        "composition": [
+                                            {
+                                                "id": "171712183137485914",
+                                                "name": "\u00e9lasthanne",
+                                                "description": "9",
+                                                "percentage": "9"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "compositionByZone": [],
+                                "compositionDetail": {
+                                    "parts": [
+                                        {
+                                            "id": "1",
+                                            "description": "EXT\u00c9RIEUR",
+                                            "areas": [],
+                                            "components": [
+                                                {
+                                                    "material": "polyester",
+                                                    "percentage": "91%"
+                                                },
+                                                {
+                                                    "material": "\u00e9lasthanne",
+                                                    "percentage": "9%"
+                                                }
+                                            ],
+                                            "microcontents": [],
+                                            "reinforcements": []
+                                        }
+                                    ],
+                                    "exceptions": [
+                                        "SAUF D\u00c9CORATIONS"
+                                    ]
+                                },
+                                "colFilter": [],
+                                "sustainability": {
+                                    "show": false,
+                                    "syntheticFiberPercentage": {
+                                        "name": ""
+                                    }
+                                },
+                                "traceability": {
+                                    "show": false,
+                                    "weaving": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "dyeingPrinting": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "confection": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "assembly": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "pricking": {
+                                        "name": "",
+                                        "country": []
+                                    },
+                                    "finish": {
+                                        "name": "",
+                                        "country": []
+                                    }
+                                },
+                                "joinLifeLabelInfo": {
+                                    "show": false,
+                                    "areas": []
+                                },
+                                "certifiedMaterials": {
+                                    "show": false,
+                                    "materials": []
+                                }
+                            }
+                        ],
+                        "relatedProducts": [],
+                        "xmediaDefaultSet": null,
+                        "xmedia": [
+                            {
+                                "path": "/2024/V/0/1/p/2815/296/906",
+                                "xmediaItems": [
+                                    {
+                                        "medias": [
+                                            {
+                                                "format": 4,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_4_1_",
+                                                "timestamp": 1715005478141,
+                                                "extraInfo": {
+                                                    "originalName": "h11"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_3_",
+                                                "timestamp": 1715003457193,
+                                                "extraInfo": {
+                                                    "originalName": "a3o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_3_0.jpg?imwidth=:width:&ts=1715003455398"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_1_",
+                                                "timestamp": 1715003451145,
+                                                "extraInfo": {
+                                                    "originalName": "a1t",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_1_0.jpg?imwidth=:width:&ts=1715003449363"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_2_",
+                                                "timestamp": 1715003474239,
+                                                "extraInfo": {
+                                                    "originalName": "a2d",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_2_0.jpg?imwidth=:width:&ts=1715003472443"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_5_",
+                                                "timestamp": 1715003469092,
+                                                "extraInfo": {
+                                                    "originalName": "a5o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_5_0.jpg?imwidth=:width:&ts=1715003467255"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_4_",
+                                                "timestamp": 1715003157146,
+                                                "extraInfo": {
+                                                    "originalName": "a4o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_4_0.jpg?imwidth=:width:&ts=1715003155107"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_13_",
+                                                "timestamp": 1715003152258,
+                                                "extraInfo": {
+                                                    "originalName": "b",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_13_0.jpg?imwidth=:width:&ts=1715003150980"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_6_",
+                                                "timestamp": 1715004962922,
+                                                "extraInfo": {
+                                                    "originalName": "a6o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_6_0.jpg?imwidth=:width:&ts=1715004961607"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_1_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_1_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_7_",
+                                                "timestamp": 1715596342109,
+                                                "extraInfo": {
+                                                    "originalName": "a7o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "8302936ed5b5c956afe769cd2f73e411",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/14/2815296906_2_7_0.jpg?imwidth=:width:&ts=1715596340890"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 2,
+                                                "idMedia": "2815296906_3_1_",
+                                                "timestamp": 1715003445160,
+                                                "extraInfo": {
+                                                    "originalName": "r",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_3_1_0.jpg?imwidth=:width:&ts=1715003444985"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_2_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p2",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_2_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_17_",
+                                                "timestamp": 1715604970538,
+                                                "extraInfo": {
+                                                    "originalName": "a8o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "d40989db94ab2248c8431f33681ec683",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/14/2815296906_2_17_0.jpg?imwidth=:width:&ts=1715604969273"
+                                                },
+                                                "isModel": false
+                                            }
+                                        ],
+                                        "set": 14
+                                    },
+                                    {
+                                        "medias": [
+                                            {
+                                                "format": 4,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_4_1_",
+                                                "timestamp": 1715005478141,
+                                                "extraInfo": {
+                                                    "originalName": "h11"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_3_",
+                                                "timestamp": 1715003457193,
+                                                "extraInfo": {
+                                                    "originalName": "a3o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_3_0.jpg?imwidth=:width:&ts=1715003455398"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_1_",
+                                                "timestamp": 1715003451145,
+                                                "extraInfo": {
+                                                    "originalName": "a1t",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_1_0.jpg?imwidth=:width:&ts=1715003449363"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_2_",
+                                                "timestamp": 1715003474239,
+                                                "extraInfo": {
+                                                    "originalName": "a2d",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_2_0.jpg?imwidth=:width:&ts=1715003472443"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_5_",
+                                                "timestamp": 1715003469092,
+                                                "extraInfo": {
+                                                    "originalName": "a5o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_5_0.jpg?imwidth=:width:&ts=1715003467255"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_4_",
+                                                "timestamp": 1715003157146,
+                                                "extraInfo": {
+                                                    "originalName": "a4o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_4_0.jpg?imwidth=:width:&ts=1715003155107"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_13_",
+                                                "timestamp": 1715003152258,
+                                                "extraInfo": {
+                                                    "originalName": "b",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_13_0.jpg?imwidth=:width:&ts=1715003150980"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_6_",
+                                                "timestamp": 1715004962922,
+                                                "extraInfo": {
+                                                    "originalName": "a6o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_6_0.jpg?imwidth=:width:&ts=1715004961607"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_1_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_1_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 2,
+                                                "idMedia": "2815296906_3_1_",
+                                                "timestamp": 1715003445160,
+                                                "extraInfo": {
+                                                    "originalName": "r",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_3_1_0.jpg?imwidth=:width:&ts=1715003444985"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_2_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p2",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_2_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_7_",
+                                                "timestamp": 1715765773651,
+                                                "extraInfo": {
+                                                    "originalName": "a7o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "0ef7eeb59e20627044d7e071a192dc68",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/13/2815296906_2_7_0.jpg?imwidth=:width:&ts=1715765772469"
+                                                },
+                                                "isModel": false
+                                            }
+                                        ],
+                                        "set": 13
+                                    },
+                                    {
+                                        "medias": [
+                                            {
+                                                "format": 4,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_4_1_",
+                                                "timestamp": 1715005478141,
+                                                "extraInfo": {
+                                                    "originalName": "h11"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_3_",
+                                                "timestamp": 1715003457193,
+                                                "extraInfo": {
+                                                    "originalName": "a3o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "206f3f75e3bee46b8994f1864a1fcf78",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_3_0.jpg?imwidth=:width:&ts=1715003455398"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_1_",
+                                                "timestamp": 1715003451145,
+                                                "extraInfo": {
+                                                    "originalName": "a1t",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "1201bfe683b0c937c130bf70cd8f2fa1",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_1_0.jpg?imwidth=:width:&ts=1715003449363"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_2_",
+                                                "timestamp": 1715003474239,
+                                                "extraInfo": {
+                                                    "originalName": "a2d",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "6154aeca941a696ca45af9a5dad1288e",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_2_0.jpg?imwidth=:width:&ts=1715003472443"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_5_",
+                                                "timestamp": 1715003469092,
+                                                "extraInfo": {
+                                                    "originalName": "a5o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "45728267302d10894efb86663e9a57e4",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_5_0.jpg?imwidth=:width:&ts=1715003467255"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_4_",
+                                                "timestamp": 1715003157146,
+                                                "extraInfo": {
+                                                    "originalName": "a4o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "b7035ae41767bfff8b6e0a2466a5d855",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_4_0.jpg?imwidth=:width:&ts=1715003155107"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_13_",
+                                                "timestamp": 1715003152258,
+                                                "extraInfo": {
+                                                    "originalName": "b1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "70e8fbeb55d640f568052bc2f978d348",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_13_0.jpg?imwidth=:width:&ts=1715003150980"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_6_",
+                                                "timestamp": 1715004962922,
+                                                "extraInfo": {
+                                                    "originalName": "a6o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "80792fde5bd4b711e8c291c55836308c",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_6_0.jpg?imwidth=:width:&ts=1715004961607"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_1_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "58a2de7b385ea8ad3a1a6c4baacb737a",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_1_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_7_",
+                                                "timestamp": 1715341706292,
+                                                "extraInfo": {
+                                                    "originalName": "a7o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "d40989db94ab2248c8431f33681ec683",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_7_0.jpg?imwidth=:width:&ts=1715341704789"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 2,
+                                                "idMedia": "2815296906_3_1_",
+                                                "timestamp": 1715003445160,
+                                                "extraInfo": {
+                                                    "originalName": "r1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "c4490d23577f9369c5573ed0ee1866b8",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_3_1_0.jpg?imwidth=:width:&ts=1715003444985"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_2_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "58a2de7b385ea8ad3a1a6c4baacb737a",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_2_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_18_",
+                                                "timestamp": 1715681798566,
+                                                "extraInfo": {
+                                                    "originalName": "a9o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "d4ecb06c997b1ba5164535ed8add566c",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_18_0.jpg?imwidth=:width:&ts=1715681796932"
+                                                },
+                                                "isModel": false
+                                            }
+                                        ],
+                                        "set": 0
+                                    },
+                                    {
+                                        "medias": [
+                                            {
+                                                "format": 4,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_4_1_",
+                                                "timestamp": 1715005478141,
+                                                "extraInfo": {
+                                                    "originalName": "h11"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_3_",
+                                                "timestamp": 1715003457193,
+                                                "extraInfo": {
+                                                    "originalName": "a3o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_3_0.jpg?imwidth=:width:&ts=1715003455398"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_1_",
+                                                "timestamp": 1715003451145,
+                                                "extraInfo": {
+                                                    "originalName": "a1t",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_1_0.jpg?imwidth=:width:&ts=1715003449363"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_2_",
+                                                "timestamp": 1715003474239,
+                                                "extraInfo": {
+                                                    "originalName": "a2d",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_2_0.jpg?imwidth=:width:&ts=1715003472443"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_5_",
+                                                "timestamp": 1715003469092,
+                                                "extraInfo": {
+                                                    "originalName": "a5o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_5_0.jpg?imwidth=:width:&ts=1715003467255"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_4_",
+                                                "timestamp": 1715003157146,
+                                                "extraInfo": {
+                                                    "originalName": "a4o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_4_0.jpg?imwidth=:width:&ts=1715003155107"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_13_",
+                                                "timestamp": 1715003152258,
+                                                "extraInfo": {
+                                                    "originalName": "b",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_13_0.jpg?imwidth=:width:&ts=1715003150980"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_6_",
+                                                "timestamp": 1715004962922,
+                                                "extraInfo": {
+                                                    "originalName": "a6o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_6_0.jpg?imwidth=:width:&ts=1715004961607"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_1_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p1",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_1_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": true
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_7_",
+                                                "timestamp": 1715341706292,
+                                                "extraInfo": {
+                                                    "originalName": "a7o",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_2_7_0.jpg?imwidth=:width:&ts=1715341704789"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_2_18_",
+                                                "timestamp": 1715683264154,
+                                                "extraInfo": {
+                                                    "originalName": "a9o",
+                                                    "hash": [
+                                                        {
+                                                            "md5Hash": "fd9bd7e598eda7b659b8cb7f95a1e90b",
+                                                            "size": "0"
+                                                        }
+                                                    ],
+                                                    "url": "/2024/V/0/1/p/2815/296/906/01/2815296906_2_18_0.jpg?imwidth=:width:&ts=1715683262913"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 2,
+                                                "idMedia": "2815296906_3_1_",
+                                                "timestamp": 1715003445160,
+                                                "extraInfo": {
+                                                    "originalName": "r",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_3_1_0.jpg?imwidth=:width:&ts=1715003444985"
+                                                },
+                                                "isModel": false
+                                            },
+                                            {
+                                                "format": 1,
+                                                "clazz": 1,
+                                                "idMedia": "2815296906_1_2_",
+                                                "timestamp": 1715003462770,
+                                                "extraInfo": {
+                                                    "originalName": "p2",
+                                                    "url": "/2024/V/0/1/p/2815/296/906/2815296906_1_2_0.jpg?imwidth=:width:&ts=1715003460010"
+                                                },
+                                                "isModel": false
+                                            }
+                                        ],
+                                        "set": 1
+                                    }
+                                ],
+                                "colorCode": "906",
+                                "xmediaLocations": [
+                                    {
+                                        "locations": [
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_6_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_7_"
+                                                ],
+                                                "location": 0
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_2_17_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_6_"
+                                                ],
+                                                "location": 1
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_"
+                                                ],
+                                                "location": 2
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_3_1_"
+                                                ],
+                                                "location": 3
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 4
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 5
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_2_"
+                                                ],
+                                                "location": 6
+                                            }
+                                        ],
+                                        "set": 14
+                                    },
+                                    {
+                                        "locations": [
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_6_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_7_"
+                                                ],
+                                                "location": 0
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_2_7_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_6_"
+                                                ],
+                                                "location": 1
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_"
+                                                ],
+                                                "location": 2
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_3_1_"
+                                                ],
+                                                "location": 3
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 4
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 5
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_3_"
+                                                ],
+                                                "location": 6
+                                            }
+                                        ],
+                                        "set": 13
+                                    },
+                                    {
+                                        "locations": [
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_6_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_7_"
+                                                ],
+                                                "location": 0
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_2_7_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_6_"
+                                                ],
+                                                "location": 1
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_"
+                                                ],
+                                                "location": 2
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_3_1_"
+                                                ],
+                                                "location": 3
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 4
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 5
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_"
+                                                ],
+                                                "location": 6
+                                            }
+                                        ],
+                                        "set": 0
+                                    },
+                                    {
+                                        "locations": [
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_6_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_7_",
+                                                    "2815296906_2_18_"
+                                                ],
+                                                "location": 0
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_4_1_",
+                                                    "2815296906_2_3_",
+                                                    "2815296906_2_1_",
+                                                    "2815296906_2_2_",
+                                                    "2815296906_2_5_",
+                                                    "2815296906_2_7_",
+                                                    "2815296906_2_4_",
+                                                    "2815296906_2_13_",
+                                                    "2815296906_2_6_"
+                                                ],
+                                                "location": 1
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_1_1_"
+                                                ],
+                                                "location": 2
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_3_1_"
+                                                ],
+                                                "location": 3
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 4
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_4_"
+                                                ],
+                                                "location": 5
+                                            },
+                                            {
+                                                "mediaLocations": [
+                                                    "2815296906_2_3_"
+                                                ],
+                                                "location": 6
+                                            }
+                                        ],
+                                        "set": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "warnings": [],
+                        "familyInfo": {
+                            "familyId": 170,
+                            "familyCode": 11,
+                            "familyName": "Tee-Shirts"
+                        },
+                        "subfamilyInfo": {
+                            "subFamilyId": 714,
+                            "subFamilyCode": 111,
+                            "subFamilyName": "Tee-Shirts"
+                        },
+                        "joinLife": "",
+                        "joinType": "",
+                        "isJoinLife": false,
+                        "compositionDetail": {
+                            "parts": [
+                                {
+                                    "id": "1",
+                                    "description": "EXT\u00c9RIEUR",
+                                    "areas": [],
+                                    "components": [
+                                        {
+                                            "material": "polyester",
+                                            "percentage": "91%"
+                                        },
+                                        {
+                                            "material": "\u00e9lasthanne",
+                                            "percentage": "9%"
+                                        }
+                                    ],
+                                    "microcontents": [],
+                                    "reinforcements": []
+                                }
+                            ],
+                            "exceptions": [
+                                "SAUF D\u00c9CORATIONS"
+                            ]
+                        },
+                        "promotions": [],
+                        "country": ""
+                    },
+                    "field5": "906#1715005478141",
+                    "section": "1",
+                    "family": "170",
+                    "sectionName": "",
+                    "sectionNameEN": "WOMEN",
+                    "familyName": "Tee-Shirts",
+                    "familyNameEN": "T-Shirts",
+                    "subFamilyName": "Tee-Shirts",
+                    "subFamilyNameEN": "T-Shirts",
+                    "startDate": "",
+                    "productUrl": "tshirt-inter-miami-cf-cropped-imprime-l02815296",
+                    "gridElemType": "PRODUCT",
+                    "availabilityDate": "2024-05-28 00:00:00.0",
+                    "isBuyable": true,
+                    "onSpecial": false
+                }
+            ],
+            "detail": {
+                "description": "",
+                "longDescription": "",
+                "reference": "C02815296906-V2024",
+                "displayReference": "2815/296",
+                "defaultImageType": null,
+                "composition": [],
+                "compositionByZone": [],
+                "care": [],
+                "colors": [],
+                "relatedProducts": [],
+                "xmediaDefaultSet": null,
+                "relatedElements": [],
+                "warnings": [],
+                "familyInfo": {
+                    "familyId": 170,
+                    "familyCode": 11,
+                    "familyName": "Tee-Shirts"
+                },
+                "subfamilyInfo": {
+                    "subFamilyId": 714,
+                    "subFamilyCode": 111,
+                    "subFamilyName": "Tee-Shirts"
+                },
+                "isJoinLife": false,
+                "promotions": []
+            },
+            "field5": "906#1715005478141",
+            "section": "1",
+            "family": "170",
+            "sectionNameEN": "WOMEN",
+            "familyName": "Tee-Shirts",
+            "familyNameEN": "T-Shirts",
+            "subFamilyName": "Tee-Shirts",
+            "subFamilyNameEN": "T-Shirts",
+            "startDate": "",
+            "keywords": "",
+            "mainColorid": "906",
+            "familyCode": null,
+            "subFamilyCode": "111",
+            "productUrl": "tshirt-inter-miami-cf-cropped-imprime-l02815296",
+            "productUrlParam": "160272500",
+            "gridElemType": "MOCACO",
+            "availabilityDate": "2024-05-28 00:00:00.0",
+            "visibilityValue": "SOLD_OUT",
+            "alternativeProductId": 160271135,
+            "isBuyable": true,
+            "onSpecial": true,
+            "rueiData": {
+                "StoreLangRUEI": "<!--itxStoreLang='fr'-->",
+                "StoreTypeRUEI": "<!--itxStoreType='NO_VENTA'-->",
+                "OperationTypeRUEI": "<!--itxOperationType='rest-service-impl'-->",
+                "OperationRUEI": "<!--itxOperation='get-product-detail'-->",
+                "StoreIdRUEI": "<!--itxStoreId='DZ'-->"
+            }
+        }
+    ]
+}

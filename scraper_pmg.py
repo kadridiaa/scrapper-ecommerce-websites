@@ -68,13 +68,11 @@ url = "https://pmg.dz/page/"
 
 def product_structure():
     return {
-        # "product_id": "",
+        "product_id": "",
         "img": "",
         "name": "",
         "sectionName": "",
-        "familyName": "",
-        "subfamilyName": "",
-        "displayDiscountPercentage": "",
+        "availability": "",
         "price": "",
         "oldPrice": "",
         "link": "",
@@ -148,7 +146,7 @@ def generate_insert_query(table_structure, table_name):
     names = list(table_structure)
     cols = ", ".join(map(format_query_column, names))
     placeholders = ", ".join(["%({})s".format(name) for name in names])
-    query = "INSERT INTO {} ({}) VALUES ({})".format(table_name, cols, placeholders)
+    query = "REPLACE INTO {} ({}) VALUES ({})".format(table_name, cols, placeholders)
     return query
 
 
@@ -163,7 +161,6 @@ def insert_into_database(products_list):
         host=host, password=password, database=database, user=user
     )
     sql = generate_insert_query(product_structure(), table_name=table_name)
-    print(sql)
     with connection.cursor() as cursor:
         cursor.execute("SET SESSION wait_timeout=8000;")
         l = cursor.executemany(sql, (products_list))
@@ -173,7 +170,7 @@ def insert_into_database(products_list):
 
 def fetch_pages(url, params, headers):
     number_pages = get_pages_number(params=params, headers=headers)
-    print(number_pages)
+    # print(number_pages)
     products_list = []  # Initialize an empty list to store products
     for nb_page in range(1, number_pages + 1):  # Iterate over page numbers
         response = requests.get(
@@ -185,12 +182,33 @@ def fetch_pages(url, params, headers):
         # print(html_page)
 
         products = BeautifulSoup(html_page, "html.parser").find_all(class_="product-small box")
-        print(len(products))
+        # print(len(products))
         for prd in products:
             prd_img = prd.find("img").get('data-src')
-            # print(prd_img)
             prd_title = prd.find("p" , class_="product-title").find("a").text
+            
+            prd_id = prd.find('a', class_='quick-view')['data-prod']
             prd_link = prd.find("a").get("href")
+            prd_sectionName = prd.find("p" , class_="category").text.strip()
+            if prd_sectionName == "Homme" :
+                prd_sectionName = "Man"
+            elif prd_sectionName == "Femme" :
+                prd_sectionName = "Woman"
+            elif prd_sectionName == "Enfant" :
+                prd_sectionName = "Kid"
+               
+            else : 
+                prd_sectionName == "Man" 
+               
+                
+            
+            # print(prd_sectionName)
+            if prd.find("div" , class_="out-of-stock-label") : 
+                prd_availability = prd.find("div" , class_="out-of-stock-label").text
+              
+            else : 
+                prd_availability = 'diponible'
+                
             if prd.find("del"):
                 prd_old_price = prd.find("del").find("bdi").text
                 prd_price = prd.find("ins").find("bdi").text
@@ -199,22 +217,65 @@ def fetch_pages(url, params, headers):
                 prd_old_price = None
 
             product = product_structure()
+            
             product["name"] = prd_title
+            product["product_id"] = prd_id
             product["img"] = prd_img
-            product["sectionName"] = None
-            product["familyName"] = None
-            product["subfamilyName"] = None
-            product["availabilty"] = None
-            product["displayDiscountPercentage"] = None
+           
+            product["sectionName"] = prd_sectionName
+            product["availability"] = prd_availability
+            
             product["price"] = prd_price
             product["oldPrice"] = prd_old_price
             product["link"] = prd_link
-            product["websiteId"] = '2'
+            product["websiteId"] = 2
+         
             products_list.append(product)
 
     return products_list
 
 
+
+
+def generate_insert_website_query(table_name):
+    query = "REPLACE INTO {} (NombreS) VALUES (%s)".format(table_name)
+    return query
+
+
+def increment_website_count(connection, table_name, website_id):
+    current_count = 0
+    if website_id == 2:
+        with connection.cursor() as cursor:
+            cursor.execute("SELECT NombreS FROM {} WHERE website_id = %s".format(table_name), (website_id,))
+            result = cursor.fetchone()
+            if result:
+                current_count = result["NombreS"]
+                current_count += 1
+                cursor.execute("UPDATE {} SET NombreS = %s WHERE website_id = %s".format(table_name), (current_count, website_id))
+            else:
+                cursor.execute("INSERT INTO {} (NombreS, websiteId) VALUES (%s, %s)".format(table_name), (1, website_id))
+        connection.commit()
+    return current_count
+
+def insert_into_website_table(connection, current_count):
+    table_name = "website"
+    sql = generate_insert_website_query(table_name)
+    # print(sql)
+    with connection.cursor() as cursor:
+        cursor.execute(sql, (current_count,))
+    connection.commit()
+
+# Avant votre boucle de scrapping
+connection = create_pymysql_connection(host='localhost', password='root', database='diaa', user='root')
+current_count = increment_website_count(connection, "website" , 2)
+print(current_count)
+
+# Dans votre boucle de scrapping
+
+
 products_list = fetch_pages(url=url, params=params, headers=headers)
+# print(products_list)
 insert_into_database(products_list)
+insert_into_website_table(connection, current_count)
+
 # print(products_list)
