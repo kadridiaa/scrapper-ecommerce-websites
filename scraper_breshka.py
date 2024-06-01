@@ -1,6 +1,9 @@
 import requests
 import json
 import sys
+import time
+
+import pymysql
 
 # Define headers
 headers_ = {
@@ -19,8 +22,79 @@ headers_ = {
     'sec-ch-ua-platform': '"Windows"',
 }
 
+def create_pymysql_connection(host, database, password, user):
+    """
+    Establishes a connection to a MySQL database using pymysql.
+
+    Args:
+        host (str): The host address of the MySQL database.
+        database (str): The name of the MySQL database.
+        password (str): The password for the MySQL user.
+        user (str): The username for the MySQL database.
+
+    Returns:
+        pymysql.connections.Connection: A connection object to the MySQL database.
+    """
+    try:
+        db = pymysql.connect(host=host, database=database, password=password, user=user, charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
+        return db
+    except Exception as e:
+        print(str(e))
+
+def format_query_column(column_name):
+    """
+    Formats a column name for a SQL query.
+
+    Args:
+        column_name (str): The name of the column.
+
+    Returns:
+        str: The formatted column name.
+    """
+    return '`{}`'.format(column_name.replace('`', '``'))
+
+def generate_insert_query(table_structure, table_name):
+    """
+    Generates an SQL insert query for a given table structure.
+
+    Args:
+        table_structure (dict): Dictionary representing the structure of the table.
+        table_name (str): The name of the table.
+
+    Returns:
+        str: The SQL insert query.
+    """
+    names = list(table_structure)
+    cols = ', '.join(map(format_query_column, names))
+    placeholders = ', '.join(['%({})s'.format(name) for name in names])
+    query = 'REPLACE INTO {} ({}) VALUES ({})'.format(table_name, cols, placeholders)
+    return query
 
 
+
+def insert_into_database(products):
+    """
+    Inserts product data into a MySQL database.
+
+    Args:
+        products (list): List of dictionaries representing product data.
+    """
+    host = 'localhost'
+    user = 'root'
+    password = 'root'
+    database = 'diaa'
+    table_name = "product"
+
+    connection = create_pymysql_connection(host=host, password=password, user=user, database=database)
+    sql = generate_insert_query(product_struct(), table_name)
+    print(sql)
+    with connection.cursor() as cursor:
+        cursor.execute('SET SESSION wait_timeout=8000;')
+        l = cursor.executemany(sql, (products))
+    connection.commit()
+    connection.close()
+    
+    
 if len(sys.argv) < 4:
     print("Usage: python scraper_bershka.py <query> <sexe> <hitsPerPage>")
     sys.exit(1)
@@ -45,7 +119,7 @@ else:
     print('second',data)
 
 data_json = json.dumps(data)
-# print(data_json)
+
 
 
 # Send the POST request
@@ -232,8 +306,14 @@ def fetch_page_data(url, params):
             img_path = row["bundleProductSummaries"][0]["detail"]["xmedia"][-1]["xmediaItems"][-1]["medias"][-1]["extraInfo"]["url"]
             img_based_link = "https://static.bershka.net/4/photos2"
             product_img_link = ''.join([img_based_link, img_path] )
-            
-            
+            product_based_link = 'https://www.bershka.com/dz/'
+            product_url_default = row['productUrl']  
+            product_main_color_id =row['mainColorid']
+            premiere_partie, dernier_numero = product_url_default.rsplit('-', 1)        
+            product_url = premiere_partie
+            product_url_param = row['productUrlParam'] 
+            product_link = ''.join([product_based_link, product_url , '-c0p' , product_url_param ,'.html?colorId=' , product_main_color_id] )
+            print(product_link)
             product["product_id"] = product_id
             product["availability"] = product_availability
             product["name"] = product_name
@@ -241,13 +321,20 @@ def fetch_page_data(url, params):
             product["oldPrice"] = product_oldPrice  
             product["sectionName"] = product_sectionName
             product["img"] = product_img_link
-            product["link"] = product_link
             product["websiteId"] = 3
-        
+            product["link"] = product_link
+            product_list.append(product)
+            print(product)
             
+        
     cpt = 0
     print("size : ", len(results))
+    return product_list
+    
     
 
-fetch_page_data(url , params)
+products = fetch_page_data(url , params)
+# print(products)
+insert_into_database(products)
+
     

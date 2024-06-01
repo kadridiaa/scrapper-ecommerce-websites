@@ -12,7 +12,7 @@
                 },
                 {
                     "id": "s",
-                    "count": 64,
+                    "count": 89,
                     "value": "S",
                     "filter": "sizes_facet:s"
                 },
@@ -24,13 +24,13 @@
                 },
                 {
                     "id": "m",
-                    "count": 71,
+                    "count": 98,
                     "value": "M",
                     "filter": "sizes_facet:m"
                 },
                 {
                     "id": "l",
-                    "count": 62,
+                    "count": 86,
                     "value": "L",
                     "filter": "sizes_facet:l"
                 },
@@ -42,13 +42,13 @@
                 },
                 {
                     "id": "xl",
-                    "count": 61,
+                    "count": 78,
                     "value": "XL",
                     "filter": "sizes_facet:xl"
                 },
                 {
                     "id": "xxl",
-                    "count": 1,
+                    "count": 5,
                     "value": "XXL",
                     "filter": "sizes_facet:xxl"
                 }
@@ -59,13 +59,13 @@
             "values": [
                 {
                     "id": "green",
-                    "count": 6,
+                    "count": 12,
                     "value": "Vert",
                     "filter": "color_facet:green"
                 },
                 {
                     "id": "red",
-                    "count": 2,
+                    "count": 3,
                     "value": "Rouge",
                     "filter": "color_facet:red"
                 },
@@ -77,13 +77,13 @@
                 },
                 {
                     "id": "orange",
-                    "count": 1,
+                    "count": 2,
                     "value": "Orange",
                     "filter": "color_facet:orange"
                 },
                 {
                     "id": "black",
-                    "count": 16,
+                    "count": 22,
                     "value": "Noir",
                     "filter": "color_facet:black"
                 },
@@ -95,7 +95,7 @@
                 },
                 {
                     "id": "brown",
-                    "count": 15,
+                    "count": 16,
                     "value": "Marron",
                     "filter": "color_facet:brown"
                 },
@@ -113,13 +113,13 @@
                 },
                 {
                     "id": "grey",
-                    "count": 9,
+                    "count": 13,
                     "value": "Gris",
                     "filter": "color_facet:grey"
                 },
                 {
                     "id": "neon",
-                    "count": 1,
+                    "count": 2,
                     "value": "Fluo",
                     "filter": "color_facet:neon"
                 },
@@ -131,13 +131,13 @@
                 },
                 {
                     "id": "white",
-                    "count": 18,
+                    "count": 27,
                     "value": "Blanc",
                     "filter": "color_facet:white"
                 },
                 {
                     "id": "beige",
-                    "count": 15,
+                    "count": 18,
                     "value": "Beige",
                     "filter": "color_facet:beige"
                 }
@@ -146,6 +146,26 @@
         {
             "key": "price_range_facet",
             "values": [
+                {
+                    "id": "250000",
+                    "value": "250000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "260000",
+                    "value": "260000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "270000",
+                    "value": "270000",
+                    "filter": "priceFilter:"
+                },
+                {
+                    "id": "280000",
+                    "value": "280000",
+                    "filter": "priceFilter:"
+                },
                 {
                     "id": "290000",
                     "value": "290000",
@@ -508,19 +528,19 @@
             "values": [
                 {
                     "id": "catalog01_kid",
-                    "count": 412,
+                    "count": 433,
                     "value": "Kid",
                     "filter": "rootCategories_facet:catalog01_kid"
                 },
                 {
                     "id": "catalog01_man",
-                    "count": 98,
+                    "count": 130,
                     "value": "Man",
                     "filter": "rootCategories_facet:catalog01_man"
                 },
                 {
                     "id": "catalog01_woman",
-                    "count": 74,
+                    "count": 86,
                     "value": "Woman",
                     "filter": "rootCategories_facet:catalog01_woman"
                 }
@@ -531,8 +551,8 @@
         {
             "content": {
                 "brandImpl": "zara",
-                "id": 345888618,
-                "reference": "C00347403898020-V2024",
+                "id": 319333075,
+                "reference": "C00761434712000-V2024",
                 "type": "Product",
                 "kind": "Wear",
                 "brand": {
@@ -540,925 +560,21 @@
                     "brandGroupId": 1,
                     "brandGroupCode": "zara"
                 },
-                "name": "T-SHIRT \u00c0 INSCRIPTION IMPRIM\u00c9E",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "CAMISETA",
-                "subfamilyName": "F. Camiseta",
-                "detail": {
-                    "reference": "00347403-V2024",
-                    "displayReference": "0347/403",
-                    "colors": [
-                        {
-                            "id": "898",
-                            "productId": 375172610,
-                            "name": "Anthracite fonc\u00e9",
-                            "stylingId": "20",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "0347403898_6_1_1",
-                                    "path": "/2024/V/0/2/p/0347/403/898/2",
-                                    "set": 22,
-                                    "timestamp": "1716191897764",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/ea28/2632/126b4bcdb343/93a4cfb4331e/00347403898-e1/00347403898-e1.jpg?ts=1716191907677&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C00347403898020-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-a-inscription-imprimee",
-                    "seoProductId": "00347403",
-                    "discernProductId": 375172610
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#4B4C4C",
-                    "numAdditionalColors": 0
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "0347403898_6_1_1",
-                        "path": "/2024/V/0/2/p/0347/403/898/2",
-                        "set": 22,
-                        "timestamp": "1716191897764",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/ea28/2632/126b4bcdb343/93a4cfb4331e/00347403898-e1/00347403898-e1.jpg?ts=1716191907677&w={width}"
-                    }
-                ]
-            },
-            "id": "375172610",
-            "position": 1,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=1&productId=375172610&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=1&productId=375172610&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=1&productId=375172610&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=1&productId=375172610&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=1&productId=375172610&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 348663108,
-                "reference": "C03003407712001-V2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT EN MAILLE STRUCTUR\u00c9E R\u00c9SILLE",
+                "name": "T-SHIRT \u00c0 TEXTURE ET INSCRIPTION",
                 "price": 590000,
                 "bundleProducts": [],
                 "section": 2,
                 "sectionName": "MAN",
-                "familyName": "JERSEY",
-                "subfamilyName": "F. Jersey M/C",
-                "detail": {
-                    "reference": "03003407-V2024",
-                    "displayReference": "3003/407",
-                    "colors": [
-                        {
-                            "id": "712",
-                            "productId": 375172601,
-                            "name": "\u00c9cru",
-                            "stylingId": "1",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "3003407712_6_1_1",
-                                    "path": "/2024/V/0/2/p/3003/407/712/2",
-                                    "set": 3,
-                                    "timestamp": "1715591568417",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/d07d/ff8f/44e34513900c/1259e6dfaf00/03003407712-e1/03003407712-e1.jpg?ts=1715591576852&w={width}"
-                                }
-                            ],
-                            "price": 590000,
-                            "availability": "coming_soon",
-                            "reference": "C03003407712001-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-en-maille-structuree-resille",
-                    "seoProductId": "03003407",
-                    "discernProductId": 375172601
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#FCF6E3",
-                    "numAdditionalColors": 0
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "3003407712_6_1_1",
-                        "path": "/2024/V/0/2/p/3003/407/712/2",
-                        "set": 3,
-                        "timestamp": "1715591568417",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/d07d/ff8f/44e34513900c/1259e6dfaf00/03003407712-e1/03003407712-e1.jpg?ts=1715591576852&w={width}"
-                    }
-                ]
-            },
-            "id": "375172601",
-            "position": 2,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=2&productId=375172601&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=2&productId=375172601&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=2&productId=375172601&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=2&productId=375172601&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=2&productId=375172601&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 348663088,
-                "reference": "C03003408712001-V2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "D\u00c9BARDEUR EN MAILLE EFFET R\u00c9SILLE",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "JERSEY",
-                "subfamilyName": "F. Jersey M/C",
-                "detail": {
-                    "reference": "03003408-V2024",
-                    "displayReference": "3003/408",
-                    "colors": [
-                        {
-                            "id": "712",
-                            "productId": 375172600,
-                            "name": "\u00c9cru",
-                            "stylingId": "1",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "3003408712_6_1_1",
-                                    "path": "/2024/V/0/2/p/3003/408/712/2",
-                                    "set": 3,
-                                    "timestamp": "1716191897767",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/c22e/fc39/6e9e4cb88bfc/e9f42f386599/03003408712-e1/03003408712-e1.jpg?ts=1716191906040&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C03003408712001-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "debardeur-en-maille-effet-resille",
-                    "seoProductId": "03003408",
-                    "discernProductId": 375172600
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#EBE5D2",
-                    "numAdditionalColors": 0
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "3003408712_6_1_1",
-                        "path": "/2024/V/0/2/p/3003/408/712/2",
-                        "set": 3,
-                        "timestamp": "1716191897767",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/c22e/fc39/6e9e4cb88bfc/e9f42f386599/03003408712-e1/03003408712-e1.jpg?ts=1716191906040&w={width}"
-                    }
-                ]
-            },
-            "id": "375172600",
-            "position": 3,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=3&productId=375172600&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=3&productId=375172600&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=3&productId=375172600&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=3&productId=375172600&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=3&productId=375172600&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 338305513,
-                "reference": "C03992460251001-V2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT AVEC COL BOUTONN\u00c9",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "POLO",
-                "subfamilyName": "Polo",
-                "detail": {
-                    "reference": "03992460-V2024",
-                    "displayReference": "3992/460",
-                    "colors": [
-                        {
-                            "id": "251",
-                            "productId": 367762353,
-                            "name": "Blanc cass\u00e9",
-                            "stylingId": "1",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "3992460251_6_1_1",
-                                    "path": "/2024/V/0/2/p/3992/460/251/2",
-                                    "set": 3,
-                                    "timestamp": "1714126919123",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/563d/ef78/544a4c51b3c3/d2e2f746eed6/03992460251-e1/03992460251-e1.jpg?ts=1714126942648&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "in_stock",
-                            "reference": "C03992460251001-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        },
-                        {
-                            "id": "707",
-                            "productId": 367762355,
-                            "name": "Marron clair",
-                            "stylingId": "1",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "3992460707_6_1_1",
-                                    "path": "/2024/V/0/2/p/3992/460/707/2",
-                                    "set": 3,
-                                    "timestamp": "1714126919691",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/f02d/de91/56cf46ed8fdf/499dccbf1720/03992460707-e1/03992460707-e1.jpg?ts=1714126949473&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "in_stock",
-                            "reference": "C03992460707001-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        },
-                        {
-                            "id": "609",
-                            "productId": 367762356,
-                            "name": "Rouge",
-                            "stylingId": "1",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "3992460609_6_1_1",
-                                    "path": "/2024/V/0/2/p/3992/460/609/2",
-                                    "set": 3,
-                                    "timestamp": "1714126920682",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/d57a/bdd6/73af452e9567/beac7e10bee0/03992460609-e1/03992460609-e1.jpg?ts=1714126945970&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "in_stock",
-                            "reference": "C03992460609001-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-avec-col-boutonne",
-                    "seoProductId": "03992460",
-                    "discernProductId": 367762353
-                },
-                "availability": "in_stock",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#F7F6F0",
-                    "numAdditionalColors": 2
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "3992460251_6_1_1",
-                        "path": "/2024/V/0/2/p/3992/460/251/2",
-                        "set": 3,
-                        "timestamp": "1714126919123",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/563d/ef78/544a4c51b3c3/d2e2f746eed6/03992460251-e1/03992460251-e1.jpg?ts=1714126942648&w={width}"
-                    }
-                ]
-            },
-            "id": "367762353",
-            "position": 4,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=4&productId=367762353&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=4&productId=367762353&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=4&productId=367762353&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=4&productId=367762353&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=4&productId=367762353&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 345162808,
-                "reference": "C02888428707610-V2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT BRIKO\u00ae",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "CAMISETA",
-                "subfamilyName": "ATH Camiseta",
-                "detail": {
-                    "reference": "02888428-V2024",
-                    "displayReference": "2888/428",
-                    "colors": [
-                        {
-                            "id": "707",
-                            "productId": 364476571,
-                            "name": "Marron clair",
-                            "stylingId": "610",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "2888428707_6_1_1",
-                                    "path": "/2024/V/0/2/p/2888/428/707/2",
-                                    "set": 612,
-                                    "timestamp": "1712651012045",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/4a24/0309/92fc444a890d/86ff25e6a24b/02888428707-e1/02888428707-e1.jpg?ts=1712651025010&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C02888428707610-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        },
-                        {
-                            "id": "800",
-                            "productId": 364476558,
-                            "name": "Noir",
-                            "stylingId": "610",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "2888428800_6_1_1",
-                                    "path": "/2024/V/0/2/p/2888/428/800/2",
-                                    "set": 612,
-                                    "timestamp": "1712651011966",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/5f0c/8394/32964586b466/7c96b6850dbd/02888428800-e1/02888428800-e1.jpg?ts=1712651025814&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C02888428800610-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-briko-",
-                    "seoProductId": "02888428",
-                    "discernProductId": 364476571
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#5B3430",
-                    "numAdditionalColors": 1
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "2888428707_6_1_1",
-                        "path": "/2024/V/0/2/p/2888/428/707/2",
-                        "set": 612,
-                        "timestamp": "1712651012045",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/4a24/0309/92fc444a890d/86ff25e6a24b/02888428707-e1/02888428707-e1.jpg?ts=1712651025010&w={width}"
-                    }
-                ]
-            },
-            "id": "364476571",
-            "position": 5,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=5&productId=364476571&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=5&productId=364476571&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=5&productId=364476571&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=5&productId=364476571&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=5&productId=364476571&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 345162808,
-                "reference": "C02888428800610-V2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT BRIKO\u00ae",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "CAMISETA",
-                "subfamilyName": "ATH Camiseta",
-                "detail": {
-                    "reference": "02888428-V2024",
-                    "displayReference": "2888/428",
-                    "colors": [
-                        {
-                            "id": "800",
-                            "productId": 364476558,
-                            "name": "Noir",
-                            "stylingId": "610",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "2888428800_6_1_1",
-                                    "path": "/2024/V/0/2/p/2888/428/800/2",
-                                    "set": 612,
-                                    "timestamp": "1712651011966",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/5f0c/8394/32964586b466/7c96b6850dbd/02888428800-e1/02888428800-e1.jpg?ts=1712651025814&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C02888428800610-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        },
-                        {
-                            "id": "707",
-                            "productId": 364476571,
-                            "name": "Marron clair",
-                            "stylingId": "610",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "2888428707_6_1_1",
-                                    "path": "/2024/V/0/2/p/2888/428/707/2",
-                                    "set": 612,
-                                    "timestamp": "1712651012045",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/4a24/0309/92fc444a890d/86ff25e6a24b/02888428707-e1/02888428707-e1.jpg?ts=1712651025010&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C02888428707610-V2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-briko-",
-                    "seoProductId": "02888428",
-                    "discernProductId": 364476558
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#17191B",
-                    "numAdditionalColors": 1
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "2888428800_6_1_1",
-                        "path": "/2024/V/0/2/p/2888/428/800/2",
-                        "set": 612,
-                        "timestamp": "1712651011966",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/5f0c/8394/32964586b466/7c96b6850dbd/02888428800-e1/02888428800-e1.jpg?ts=1712651025814&w={width}"
-                    }
-                ]
-            },
-            "id": "364476558",
-            "position": 6,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=6&productId=364476558&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=6&productId=364476558&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=6&productId=364476558&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=6&productId=364476558&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=6&productId=364476558&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 364106758,
-                "reference": "C00304416711000-I2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT EN MAILLE DE VISCOSE M\u00c9LANG\u00c9E",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "JERSEY",
-                "subfamilyName": "B. Jersey M/C",
-                "detail": {
-                    "reference": "00304416-I2024",
-                    "displayReference": "0304/416",
-                    "colors": [
-                        {
-                            "id": "711",
-                            "productId": 364107781,
-                            "name": "Sable",
-                            "stylingId": "0",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "0304416711_6_1_1",
-                                    "path": "/2024/I/0/2/p/0304/416/711/2",
-                                    "set": 2,
-                                    "timestamp": "1715854162804",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/1b7d/352c/4c2b4c9883b6/0d2f80a1ee74/00304416711-e1/00304416711-e1.jpg?ts=1715854186656&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C00304416711000-I2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "t-shirt-en-maille-de-viscose-melangee",
-                    "seoProductId": "00304416",
-                    "discernProductId": 364107781
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#D4C2AC",
-                    "numAdditionalColors": 0
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "0304416711_6_1_1",
-                        "path": "/2024/I/0/2/p/0304/416/711/2",
-                        "set": 2,
-                        "timestamp": "1715854162804",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/1b7d/352c/4c2b4c9883b6/0d2f80a1ee74/00304416711-e1/00304416711-e1.jpg?ts=1715854186656&w={width}"
-                    }
-                ]
-            },
-            "id": "364107781",
-            "position": 7,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=7&productId=364107781&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=7&productId=364107781&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=7&productId=364107781&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=7&productId=364107781&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=7&productId=364107781&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 364105191,
-                "reference": "C06096304832000-I2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "HAUT TEXTUR\u00c9 EN R\u00c9SILLE",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
-                "familyName": "CAMISETA",
-                "subfamilyName": "ATH Camiseta",
-                "detail": {
-                    "reference": "06096304-I2024",
-                    "displayReference": "6096/304",
-                    "colors": [
-                        {
-                            "id": "832",
-                            "productId": 364107522,
-                            "name": "Gris taupe",
-                            "stylingId": "0",
-                            "xmedia": [
-                                {
-                                    "allowedScreens": [
-                                        "small",
-                                        "large"
-                                    ],
-                                    "datatype": "xmedia",
-                                    "height": 3072,
-                                    "kind": "plain",
-                                    "name": "6096304832_6_1_1",
-                                    "path": "/2024/I/0/2/p/6096/304/832/2",
-                                    "set": 2,
-                                    "timestamp": "1716303821856",
-                                    "type": "image",
-                                    "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/9c28/0f40/7550406ba651/8d9004a6d72d/06096304832-e1/06096304832-e1.jpg?ts=1716303845261&w={width}"
-                                }
-                            ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C06096304832000-I2024",
-                            "extraInfo": {
-                                "highlightPrice": false
-                            }
-                        }
-                    ]
-                },
-                "seo": {
-                    "keyword": "haut-texture-en-resille",
-                    "seoProductId": "06096304",
-                    "discernProductId": 364107522
-                },
-                "availability": "coming_soon",
-                "extraInfo": {
-                    "highlightPrice": false,
-                    "isAddToCartInGridDisabled": false
-                },
-                "colorInfo": {
-                    "mainColorHexCode": "#9E9383",
-                    "numAdditionalColors": 0
-                },
-                "xmedia": [
-                    {
-                        "allowedScreens": [
-                            "small",
-                            "large"
-                        ],
-                        "datatype": "xmedia",
-                        "height": 3072,
-                        "kind": "plain",
-                        "name": "6096304832_6_1_1",
-                        "path": "/2024/I/0/2/p/6096/304/832/2",
-                        "set": 2,
-                        "timestamp": "1716303821856",
-                        "type": "image",
-                        "width": 2048,
-                        "url": "https://static.zara.net/assets/public/9c28/0f40/7550406ba651/8d9004a6d72d/06096304832-e1/06096304832-e1.jpg?ts=1716303845261&w={width}"
-                    }
-                ]
-            },
-            "id": "364107522",
-            "position": 8,
-            "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=8&productId=364107522&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=8&productId=364107522&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=8&productId=364107522&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=8&productId=364107522&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=8&productId=364107522&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
-            }
-        },
-        {
-            "content": {
-                "brandImpl": "zara",
-                "id": 364084847,
-                "reference": "C00962313250000-I2024",
-                "type": "Product",
-                "kind": "Wear",
-                "brand": {
-                    "brandId": 1,
-                    "brandGroupId": 1,
-                    "brandGroupCode": "zara"
-                },
-                "name": "T-SHIRT \u00c0 IMPRIM\u00c9 EN CONTRASTE",
-                "price": 490000,
-                "bundleProducts": [],
-                "section": 2,
-                "sectionName": "MAN",
                 "familyName": "CAMISETA",
                 "subfamilyName": "F. Camiseta",
                 "detail": {
-                    "reference": "00962313-I2024",
-                    "displayReference": "0962/313",
+                    "reference": "00761434-V2024",
+                    "displayReference": "0761/434",
                     "colors": [
                         {
-                            "id": "250",
-                            "productId": 364086659,
-                            "name": "Blanc",
+                            "id": "712",
+                            "productId": 319334069,
+                            "name": "\u00c9cru",
                             "stylingId": "0",
                             "xmedia": [
                                 {
@@ -1469,18 +585,18 @@
                                     "datatype": "xmedia",
                                     "height": 3072,
                                     "kind": "plain",
-                                    "name": "0962313250_6_1_1",
-                                    "path": "/2024/I/0/2/p/0962/313/250/2",
+                                    "name": "0761434712_6_1_1",
+                                    "path": "/2024/V/0/2/p/0761/434/712/2",
                                     "set": 2,
-                                    "timestamp": "1716276069573",
+                                    "timestamp": "1707403681045",
                                     "type": "image",
                                     "width": 2048,
-                                    "url": "https://static.zara.net/assets/public/d54c/c90c/9ffc4b9f901b/11e03ea22c2c/00962313250-e1/00962313250-e1.jpg?ts=1716276085147&w={width}"
+                                    "url": "https://static.zara.net/assets/public/4835/101f/452f4194ab96/df9c9895a14a/00761434712-e1/00761434712-e1.jpg?ts=1707403713028&w={width}"
                                 }
                             ],
-                            "price": 490000,
-                            "availability": "coming_soon",
-                            "reference": "C00962313250000-I2024",
+                            "price": 590000,
+                            "availability": "in_stock",
+                            "reference": "C00761434712000-V2024",
                             "extraInfo": {
                                 "highlightPrice": false
                             }
@@ -1488,11 +604,11 @@
                     ]
                 },
                 "seo": {
-                    "keyword": "t-shirt-a-imprime-en-contraste",
-                    "seoProductId": "00962313",
-                    "discernProductId": 364086659
+                    "keyword": "t-shirt-a-texture-et-inscription",
+                    "seoProductId": "00761434",
+                    "discernProductId": 319334069
                 },
-                "availability": "coming_soon",
+                "availability": "in_stock",
                 "extraInfo": {
                     "highlightPrice": false,
                     "isAddToCartInGridDisabled": false
@@ -1510,35 +626,1457 @@
                         "datatype": "xmedia",
                         "height": 3072,
                         "kind": "plain",
-                        "name": "0962313250_6_1_1",
-                        "path": "/2024/I/0/2/p/0962/313/250/2",
+                        "name": "0761434712_6_1_1",
+                        "path": "/2024/V/0/2/p/0761/434/712/2",
                         "set": 2,
-                        "timestamp": "1716276069573",
+                        "timestamp": "1707403681045",
                         "type": "image",
                         "width": 2048,
-                        "url": "https://static.zara.net/assets/public/d54c/c90c/9ffc4b9f901b/11e03ea22c2c/00962313250-e1/00962313250-e1.jpg?ts=1716276085147&w={width}"
+                        "url": "https://static.zara.net/assets/public/4835/101f/452f4194ab96/df9c9895a14a/00761434712-e1/00761434712-e1.jpg?ts=1707403713028&w={width}"
                     }
                 ]
             },
-            "id": "364086659",
+            "id": "319334069",
+            "position": 1,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=1&productId=319334069&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=1&productId=319334069&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=1&productId=319334069&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=1&productId=319334069&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=1&productId=319334069&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 316697813,
+                "reference": "C01887450250020-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c9PAIS",
+                "price": 350000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "01887450-V2024",
+                    "displayReference": "1887/450",
+                    "colors": [
+                        {
+                            "id": "250",
+                            "productId": 367522448,
+                            "name": "Blanc",
+                            "stylingId": "20",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450250_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/250/2",
+                                    "set": 22,
+                                    "timestamp": "1703666016728",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/2c01/3fb8/8170439e9918/30bb332e5b86/01887450250-e1/01887450250-e1.jpg?ts=1703666027957&w={width}"
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450250020-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 372710334,
+                            "name": "Noir",
+                            "stylingId": "20",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450800_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/800/2",
+                                    "set": 22,
+                                    "timestamp": "1703666016786",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/b7b1/3b05/845a48b0ba42/8449964c8685/01887450800-e1/01887450800-e1.jpg?ts=1703666028745&w={width}"
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450800020-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-epais",
+                    "seoProductId": "01887450",
+                    "discernProductId": 367522448
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F6F6F6",
+                    "numAdditionalColors": 1
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "1887450250_6_1_1",
+                        "path": "/2024/V/0/2/p/1887/450/250/2",
+                        "set": 22,
+                        "timestamp": "1703666016728",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/2c01/3fb8/8170439e9918/30bb332e5b86/01887450250-e1/01887450250-e1.jpg?ts=1703666027957&w={width}"
+                    }
+                ]
+            },
+            "id": "367522448",
+            "position": 2,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=2&productId=367522448&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=2&productId=367522448&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=2&productId=367522448&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=2&productId=367522448&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=2&productId=367522448&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 316697813,
+                "reference": "C01887450800000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c9PAIS",
+                "price": 350000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "01887450-V2024",
+                    "displayReference": "1887/450",
+                    "colors": [
+                        {
+                            "id": "800",
+                            "productId": 316715457,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450800_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/800/2",
+                                    "set": 2,
+                                    "timestamp": "1703666016786",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/b7b1/3b05/845a48b0ba42/8449964c8685/01887450800-e1/01887450800-e1.jpg?ts=1703666028745&w={width}"
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "250",
+                            "productId": 316715458,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887450250_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/450/250/2",
+                                    "set": 2,
+                                    "timestamp": "1703666016728",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/2c01/3fb8/8170439e9918/30bb332e5b86/01887450250-e1/01887450250-e1.jpg?ts=1703666027957&w={width}"
+                                }
+                            ],
+                            "price": 350000,
+                            "availability": "in_stock",
+                            "reference": "C01887450250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-epais",
+                    "seoProductId": "01887450",
+                    "discernProductId": 316715457
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#0A0A0A",
+                    "numAdditionalColors": 1
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "1887450800_6_1_1",
+                        "path": "/2024/V/0/2/p/1887/450/800/2",
+                        "set": 2,
+                        "timestamp": "1703666016786",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/b7b1/3b05/845a48b0ba42/8449964c8685/01887450800-e1/01887450800-e1.jpg?ts=1703666028745&w={width}"
+                    }
+                ]
+            },
+            "id": "316715457",
+            "position": 3,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=3&productId=316715457&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=3&productId=316715457&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=3&productId=316715457&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=3&productId=316715457&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=3&productId=316715457&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 318239450,
+                "reference": "C01887470250000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 POIDS NORMAL",
+                "price": 290000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "01887470-V2024",
+                    "displayReference": "1887/470",
+                    "colors": [
+                        {
+                            "id": "250",
+                            "productId": 318255748,
+                            "name": "Blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887470250_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/470/250/2",
+                                    "set": 2,
+                                    "timestamp": "1703084870393",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/56c9/49d0/78374284abee/456f4dad604b/01887470250-e1/01887470250-e1.jpg?ts=1703084878830&w={width}"
+                                }
+                            ],
+                            "price": 290000,
+                            "availability": "in_stock",
+                            "reference": "C01887470250000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 318255747,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887470800_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/470/800/2",
+                                    "set": 2,
+                                    "timestamp": "1703084870609",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/6fe7/9b7c/a8264d6d81ee/abc8f8100037/01887470800-e1/01887470800-e1.jpg?ts=1703084878835&w={width}"
+                                }
+                            ],
+                            "price": 290000,
+                            "availability": "in_stock",
+                            "reference": "C01887470800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "017",
+                            "productId": 323134416,
+                            "name": "marron/blanc",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "1887470017_6_1_1",
+                                    "path": "/2024/V/0/2/p/1887/470/017/2",
+                                    "set": 2,
+                                    "timestamp": "1703759557113",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/4945/2907/66474895a1a8/8647505b63cd/01887470017-e1/01887470017-e1.jpg?ts=1703759617002&w={width}"
+                                }
+                            ],
+                            "price": 290000,
+                            "availability": "in_stock",
+                            "reference": "C01887470017000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-poids-normal",
+                    "seoProductId": "01887470",
+                    "discernProductId": 318255748
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F2F7FA",
+                    "numAdditionalColors": 2
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "1887470250_6_1_1",
+                        "path": "/2024/V/0/2/p/1887/470/250/2",
+                        "set": 2,
+                        "timestamp": "1703084870393",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/56c9/49d0/78374284abee/456f4dad604b/01887470250-e1/01887470250-e1.jpg?ts=1703084878830&w={width}"
+                    }
+                ]
+            },
+            "id": "318255748",
+            "position": 4,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=4&productId=318255748&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=4&productId=318255748&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=4&productId=318255748&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=4&productId=318255748&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=4&productId=318255748&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 315220723,
+                "reference": "C05584361800000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT BASIQUE \u00c0 COUPE \u00c9TROITE",
+                "price": 250000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "B. Camiseta",
+                "detail": {
+                    "reference": "05584361-V2024",
+                    "displayReference": "5584/361",
+                    "colors": [
+                        {
+                            "id": "800",
+                            "productId": 315241755,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584261800_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/261/800/2",
+                                    "set": 2,
+                                    "timestamp": "1701355301897",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/e9e9/1a85/339b4549a2d1/dcaa8cd81759/05584261800-e1/05584261800-e1.jpg?ts=1701355317347&w={width}"
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "822",
+                            "productId": 316180329,
+                            "name": "Charbon",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "5584361822_6_1_1",
+                                    "path": "/2024/V/0/2/p/5584/361/822/2",
+                                    "set": 2,
+                                    "timestamp": "1703759556837",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/bcfe/2366/0bd94a208510/527821460f5f/05584361822-e1/05584361822-e1.jpg?ts=1703759599304&w={width}"
+                                }
+                            ],
+                            "price": 250000,
+                            "availability": "in_stock",
+                            "reference": "C05584361822000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-basique-a-coupe-etroite",
+                    "seoProductId": "05584361",
+                    "discernProductId": 315241755
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#191919",
+                    "numAdditionalColors": 1
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "5584261800_6_1_1",
+                        "path": "/2024/V/0/2/p/5584/261/800/2",
+                        "set": 2,
+                        "timestamp": "1701355301897",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/e9e9/1a85/339b4549a2d1/dcaa8cd81759/05584261800-e1/05584261800-e1.jpg?ts=1701355317347&w={width}"
+                    }
+                ]
+            },
+            "id": "315241755",
+            "position": 5,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=5&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=5&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=5&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=5&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=5&productId=315241755&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 352146582,
+                "reference": "C00962469612000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT \u00c0 MOTIFS GRAPHIQUES IMPRIM\u00c9S",
+                "price": 490000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "F. Camiseta",
+                "detail": {
+                    "reference": "00962469-V2024",
+                    "displayReference": "0962/469",
+                    "colors": [
+                        {
+                            "id": "612",
+                            "productId": 352146857,
+                            "name": "Mauve",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0962469612_6_1_1",
+                                    "path": "/2024/V/0/1/p/0962/469/612/2",
+                                    "set": 2,
+                                    "timestamp": "1714651544016",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/4e2d/9233/cee64ba99a0a/c815cd8258f4/00962469612-e1/00962469612-e1.jpg?ts=1714651553122&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00962469612000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "711",
+                            "productId": 352146856,
+                            "name": "Sable",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0962469711_6_1_1",
+                                    "path": "/2024/V/0/2/p/0962/469/711/2",
+                                    "set": 2,
+                                    "timestamp": "1714126919082",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/7eb5/76c4/bec649f58c22/4e70b432dcf5/00962469711-e1/00962469711-e1.jpg?ts=1714126941986&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00962469711000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-a-motifs-graphiques-imprimes",
+                    "seoProductId": "00962469",
+                    "discernProductId": 352146857
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#B8C6D3",
+                    "numAdditionalColors": 1
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "0962469612_6_1_1",
+                        "path": "/2024/V/0/1/p/0962/469/612/2",
+                        "set": 2,
+                        "timestamp": "1714651544016",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/4e2d/9233/cee64ba99a0a/c815cd8258f4/00962469612-e1/00962469612-e1.jpg?ts=1714651553122&w={width}"
+                    }
+                ]
+            },
+            "id": "352146857",
+            "position": 6,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=6&productId=352146857&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=6&productId=352146857&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=6&productId=352146857&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=6&productId=352146857&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=6&productId=352146857&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 349649783,
+                "reference": "C04374405617000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT \u00c0 MOTIFS GRAPHIQUES IMPRIM\u00c9S",
+                "price": 490000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "F. Camiseta",
+                "detail": {
+                    "reference": "04374405-V2024",
+                    "displayReference": "4374/405",
+                    "colors": [
+                        {
+                            "id": "617",
+                            "productId": 349652358,
+                            "name": "Orange fluo",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "4374405617_6_1_1",
+                                    "path": "/2024/V/0/2/p/4374/405/617/2",
+                                    "set": 2,
+                                    "timestamp": "1713773423736",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/e872/f3bf/053a4ab08d6f/a00871090ee1/04374405617-e1/04374405617-e1.jpg?ts=1713773451618&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C04374405617000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-a-motifs-graphiques-imprimes",
+                    "seoProductId": "04374405",
+                    "discernProductId": 349652358
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#FFB380",
+                    "numAdditionalColors": 0
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "4374405617_6_1_1",
+                        "path": "/2024/V/0/2/p/4374/405/617/2",
+                        "set": 2,
+                        "timestamp": "1713773423736",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/e872/f3bf/053a4ab08d6f/a00871090ee1/04374405617-e1/04374405617-e1.jpg?ts=1713773451618&w={width}"
+                    }
+                ]
+            },
+            "id": "349652358",
+            "position": 7,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=7&productId=349652358&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=7&productId=349652358&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=7&productId=349652358&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=7&productId=349652358&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=7&productId=349652358&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 311290454,
+                "reference": "C00304416080000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT EN MAILLE DE VISCOSE M\u00c9LANG\u00c9E",
+                "price": 490000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "JERSEY",
+                "subfamilyName": "B. Jersey M/C",
+                "detail": {
+                    "reference": "00304416-V2024",
+                    "displayReference": "0304/416",
+                    "colors": [
+                        {
+                            "id": "080",
+                            "productId": 343087705,
+                            "name": "\u00c9cru / Bleu",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416080_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/080/2",
+                                    "set": 2,
+                                    "timestamp": "1714126920390",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/a7d2/d036/78c44f86a9c1/bcbdf88b3584/00304416080-e1/00304416080-e1.jpg?ts=1714126960423&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416080000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "251",
+                            "productId": 311292446,
+                            "name": "Blanc cass\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416251_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/251/2",
+                                    "set": 2,
+                                    "timestamp": "1704365294671",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/d4fc/5b3c/d6724d5cad79/82ee348cf4ed/00304416251-e1/00304416251-e1.jpg?ts=1704365307165&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416251000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 311292443,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416800_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/800/2",
+                                    "set": 2,
+                                    "timestamp": "1704378012384",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/2a69/c6be/92c34a8cbd8f/50d3d6039885/00304416800-e1/00304416800-e1.jpg?ts=1704378028962&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "912",
+                            "productId": 311292444,
+                            "name": "Vert clair",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416912_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/912/2",
+                                    "set": 2,
+                                    "timestamp": "1704378014495",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/c758/f26f/50c14eba9ee3/a3287f0ee8aa/00304416912-e1/00304416912-e1.jpg?ts=1704378035696&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416912000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "514",
+                            "productId": 343087706,
+                            "name": "Verd\u00e2tre",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416514_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/514/2",
+                                    "set": 2,
+                                    "timestamp": "1714645085384",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/529d/f6a6/3ad045e2ab8b/83a2d648e2c2/00304416514-e1/00304416514-e1.jpg?ts=1714645101314&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416514000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-en-maille-de-viscose-melangee",
+                    "seoProductId": "00304416",
+                    "discernProductId": 343087705
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#F3F7F4",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "0304416080_6_1_1",
+                        "path": "/2024/V/0/2/p/0304/416/080/2",
+                        "set": 2,
+                        "timestamp": "1714126920390",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/a7d2/d036/78c44f86a9c1/bcbdf88b3584/00304416080-e1/00304416080-e1.jpg?ts=1714126960423&w={width}"
+                    }
+                ]
+            },
+            "id": "343087705",
+            "position": 8,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=8&productId=343087705&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=8&productId=343087705&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=8&productId=343087705&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=8&productId=343087705&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=8&productId=343087705&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 314739291,
+                "reference": "C00761417505000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT \u00c0 TEXTURE QUADRILL\u00c9E",
+                "price": 490000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "CAMISETA",
+                "subfamilyName": "Cta. Liso Venta",
+                "detail": {
+                    "reference": "00761417-V2024",
+                    "displayReference": "0761/417",
+                    "colors": [
+                        {
+                            "id": "505",
+                            "productId": 318215269,
+                            "name": "Kaki",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0761417505_6_1_1",
+                                    "path": "/2024/V/0/2/p/0761/417/505/2",
+                                    "set": 2,
+                                    "timestamp": "1703666017136",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/1156/247d/dc9546e384bf/4b69cf0ac63a/00761417505-e1/00761417505-e1.jpg?ts=1703666027186&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00761417505000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "806",
+                            "productId": 314756173,
+                            "name": "Pierre",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0761417806_6_1_1",
+                                    "path": "/2024/V/0/2/p/0761/417/806/2",
+                                    "set": 2,
+                                    "timestamp": "1703000575361",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/b8ff/2592/a7fe42e18275/5e1b4cd32813/00761417806-e1/00761417806-e1.jpg?ts=1703000588112&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00761417806000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "251",
+                            "productId": 314756172,
+                            "name": "Blanc cass\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0761417251_6_1_1",
+                                    "path": "/2024/V/0/1/p/0761/417/251/2",
+                                    "set": 2,
+                                    "timestamp": "1704794082530",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/d2c7/3e23/bf264b20b5d1/aab203ee1eb7/00761417251-e1/00761417251-e1.jpg?ts=1704794088309&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00761417251000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "700",
+                            "productId": 318215268,
+                            "name": "Marron",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0761417700_6_1_1",
+                                    "path": "/2024/V/0/2/p/0761/417/700/2",
+                                    "set": 2,
+                                    "timestamp": "1703000575145",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/2a8d/8cf7/024648ad8bcd/42a63bb37705/00761417700-e1/00761417700-e1.jpg?ts=1703000584376&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00761417700000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "800",
+                            "productId": 314756170,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0761417800_6_1_1",
+                                    "path": "/2024/V/0/2/p/0761/417/800/2",
+                                    "set": 2,
+                                    "timestamp": "1703084870863",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/7ed0/816b/58874a40924b/6d0cdb62774b/00761417800-e1/00761417800-e1.jpg?ts=1703084881937&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00761417800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-a-texture-quadrillee",
+                    "seoProductId": "00761417",
+                    "discernProductId": 318215269
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#493C2B",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "0761417505_6_1_1",
+                        "path": "/2024/V/0/2/p/0761/417/505/2",
+                        "set": 2,
+                        "timestamp": "1703666017136",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/1156/247d/dc9546e384bf/4b69cf0ac63a/00761417505-e1/00761417505-e1.jpg?ts=1703666027186&w={width}"
+                    }
+                ]
+            },
+            "id": "318215269",
             "position": 9,
             "tagging": {
-                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=9&productId=364086659&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=9&productId=364086659&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
-                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=9&productId=364086659&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=9&productId=364086659&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
-                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&position=9&productId=364086659&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=9&productId=318215269&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=9&productId=318215269&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=9&productId=318215269&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=9&productId=318215269&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=9&productId=318215269&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
+            }
+        },
+        {
+            "content": {
+                "brandImpl": "zara",
+                "id": 311290454,
+                "reference": "C00304416800000-V2024",
+                "type": "Product",
+                "kind": "Wear",
+                "brand": {
+                    "brandId": 1,
+                    "brandGroupId": 1,
+                    "brandGroupCode": "zara"
+                },
+                "name": "T-SHIRT EN MAILLE DE VISCOSE M\u00c9LANG\u00c9E",
+                "price": 490000,
+                "bundleProducts": [],
+                "section": 2,
+                "sectionName": "MAN",
+                "familyName": "JERSEY",
+                "subfamilyName": "B. Jersey M/C",
+                "detail": {
+                    "reference": "00304416-V2024",
+                    "displayReference": "0304/416",
+                    "colors": [
+                        {
+                            "id": "800",
+                            "productId": 311292443,
+                            "name": "Noir",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416800_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/800/2",
+                                    "set": 2,
+                                    "timestamp": "1704378012384",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/2a69/c6be/92c34a8cbd8f/50d3d6039885/00304416800-e1/00304416800-e1.jpg?ts=1704378028962&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416800000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "251",
+                            "productId": 311292446,
+                            "name": "Blanc cass\u00e9",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416251_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/251/2",
+                                    "set": 2,
+                                    "timestamp": "1704365294671",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/d4fc/5b3c/d6724d5cad79/82ee348cf4ed/00304416251-e1/00304416251-e1.jpg?ts=1704365307165&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416251000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "912",
+                            "productId": 311292444,
+                            "name": "Vert clair",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416912_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/912/2",
+                                    "set": 2,
+                                    "timestamp": "1704378014495",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/c758/f26f/50c14eba9ee3/a3287f0ee8aa/00304416912-e1/00304416912-e1.jpg?ts=1704378035696&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416912000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "080",
+                            "productId": 343087705,
+                            "name": "\u00c9cru / Bleu",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416080_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/080/2",
+                                    "set": 2,
+                                    "timestamp": "1714126920390",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/a7d2/d036/78c44f86a9c1/bcbdf88b3584/00304416080-e1/00304416080-e1.jpg?ts=1714126960423&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416080000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        },
+                        {
+                            "id": "514",
+                            "productId": 343087706,
+                            "name": "Verd\u00e2tre",
+                            "stylingId": "0",
+                            "xmedia": [
+                                {
+                                    "allowedScreens": [
+                                        "small",
+                                        "large"
+                                    ],
+                                    "datatype": "xmedia",
+                                    "height": 3072,
+                                    "kind": "plain",
+                                    "name": "0304416514_6_1_1",
+                                    "path": "/2024/V/0/2/p/0304/416/514/2",
+                                    "set": 2,
+                                    "timestamp": "1714645085384",
+                                    "type": "image",
+                                    "width": 2048,
+                                    "url": "https://static.zara.net/assets/public/529d/f6a6/3ad045e2ab8b/83a2d648e2c2/00304416514-e1/00304416514-e1.jpg?ts=1714645101314&w={width}"
+                                }
+                            ],
+                            "price": 490000,
+                            "availability": "in_stock",
+                            "reference": "C00304416514000-V2024",
+                            "extraInfo": {
+                                "highlightPrice": false
+                            }
+                        }
+                    ]
+                },
+                "seo": {
+                    "keyword": "t-shirt-en-maille-de-viscose-melangee",
+                    "seoProductId": "00304416",
+                    "discernProductId": 311292443
+                },
+                "availability": "in_stock",
+                "extraInfo": {
+                    "highlightPrice": false,
+                    "isAddToCartInGridDisabled": false
+                },
+                "colorInfo": {
+                    "mainColorHexCode": "#0A0A0A",
+                    "numAdditionalColors": 4
+                },
+                "xmedia": [
+                    {
+                        "allowedScreens": [
+                            "small",
+                            "large"
+                        ],
+                        "datatype": "xmedia",
+                        "height": 3072,
+                        "kind": "plain",
+                        "name": "0304416800_6_1_1",
+                        "path": "/2024/V/0/2/p/0304/416/800/2",
+                        "set": 2,
+                        "timestamp": "1704378012384",
+                        "type": "image",
+                        "width": 2048,
+                        "url": "https://static.zara.net/assets/public/2a69/c6be/92c34a8cbd8f/50d3d6039885/00304416800-e1/00304416800-e1.jpg?ts=1704378028962&w={width}"
+                    }
+                ]
+            },
+            "id": "311292443",
+            "position": 10,
+            "tagging": {
+                "click": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/click?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=10&productId=311292443&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2xpY2smc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "add2cart": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2cart?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=10&productId=311292443&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtYWRkVG9DYXJ0JnNlc3Npb249bnVsbA==&scope=default&provider=attraqt",
+                "wishlist": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/add2wishlist?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=10&productId=311292443&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtd2lzaGxpc3Qmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "checkout": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/checkout?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=10&productId=311292443&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY2hlY2tvdXQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt",
+                "conversion": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/conversion?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&position=10&productId=311292443&deviceType=desktop&deviceOS=Linux&providerParams=dG9kby1hZGQtY29udmVyc2lvbiZzZXNzaW9uPW51bGw=&scope=default&provider=attraqt"
             }
         }
     ],
     "tagging": {
-        "query": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/query?locale=fr_FR&query=tshitr&section=MAN&spellcheck=false&origin=default&totalHits=98&page=0&pageSize=9&deviceType=desktop&deviceOS=Linux&providerParams=aHR0cHM6Ly9xdWVyeS5wdWJsaXNoZWQubGl2ZTEuZmFzLmV1MS5mcmVkaG9wcGVyc2VydmljZXMuY29tL2ZyZWRob3BwZXIvcXVlcnl0c2hpdHImc2Vzc2lvbj1udWxs&scope=default&provider=attraqt"
+        "query": "https://www.zara.com/itxrest/1/search/store/16201/tag/event/query?locale=fr_FR&query=tshirt&section=MAN&spellcheck=false&origin=default&totalHits=130&page=0&pageSize=10&deviceType=desktop&deviceOS=Linux&providerParams=aHR0cHM6Ly9xdWVyeS5wdWJsaXNoZWQubGl2ZTEuZmFzLmV1MS5mcmVkaG9wcGVyc2VydmljZXMuY29tL2ZyZWRob3BwZXIvcXVlcnl0c2hpcnQmc2Vzc2lvbj1udWxs&scope=default&provider=attraqt"
     },
-    "totalResults": 98,
+    "totalResults": 130,
     "additionalEntities": [],
     "alternativeResults": [],
     "provider": "Attraqt",
     "searchpass": "SPELL_CHECK_LONG",
-    "cursor": "eyJjdXJzb3IiOjksInByb3ZpZGVyIjoiQXR0cmFxdCJ9",
+    "cursor": "eyJjdXJzb3IiOjExLCJwcm92aWRlciI6IkF0dHJhcXQifQ",
     "isLastPage": false
 }
